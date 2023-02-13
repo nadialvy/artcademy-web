@@ -78,9 +78,7 @@ import Navbar from "../components/Navbar.vue";
         <div class="w-1/3">
           <div class="flex flex-col items-center justify-center gap-y-1">
             <img src="../assets/2d.svg" alt="Kerajinan 2d" class="w-10" />
-            <p class="text-xs px-2 text-center">
-              Kerajinan Tangan 2 Dimensi
-            </p>
+            <p class="text-xs px-2 text-center">Kerajinan Tangan 2 Dimensi</p>
           </div>
         </div>
         <div class="w-1/3">
@@ -130,9 +128,7 @@ import Navbar from "../components/Navbar.vue";
               alt="Kerajinan Tangan 3 Dimensi"
               class="w-10"
             />
-            <p class="text-xs px-2 text-center">
-              Kerajinan Tangan 3 Dimensi
-            </p>
+            <p class="text-xs px-2 text-center">Kerajinan Tangan 3 Dimensi</p>
           </div>
         </div>
         <div class="w-1/3">
@@ -151,23 +147,64 @@ import Navbar from "../components/Navbar.vue";
     <!-- continue watch -->
     <div class="bg-white p-4 shadow-md rounded-lg mt-4 mb-10">
       <h1 class="text-lg font-bold mb-2">Lanjutkan Menonton</h1>
-      <div class="snap-x mx-auto snap-mandatory flex items-start gap-x-5 w-full overflow-scroll">
+      <div
+        class="snap-x mx-auto snap-mandatory flex items-start gap-x-5 w-full overflow-scroll"
+      >
         <div
           class="snap-start flex-shrink-0 flex flex-col items-start justify-center text-md"
         >
           <img src="../assets/continue-watch-1.svg" alt="Lanjutkan Menonton" />
-          <p class="text-xs text-start mt-2 text-gray-500" style="width: 140px; word-wrap: break-word;">
-            Pengenalan Batik - Motif-motif batik (2/12)
+          <p
+            class="text-xs text-start mt-2 text-gray-500"
+            style="width: 140px; word-wrap: break-word"
+          >
+            Pengenalan Batik - Motif-motif batik (2/12) {{ this.$route.path }}
           </p>
         </div>
         <div
           class="snap-start flex-shrink-0 flex flex-col items-start justify-center text-md"
         >
           <img src="../assets/continue-watch-2.svg" alt="Lanjutkan Menonton" />
-          <p class="text-xs text-start mt-2 text-gray-500" style="width: 140px; word-wrap: break-word;">
+          <p
+            class="text-xs text-start mt-2 text-gray-500"
+            style="width: 140px; word-wrap: break-word"
+          >
             Pengenalan Batik - Perkenalan batik (1/12)
           </p>
         </div>
+      </div>
+    </div>
+  </div>
+  <!-- bottom bar section -->
+  <div class="p-4">
+    <div
+      class="bg-white border border-gray-200 z-10 fixed-bottom left-4 right-4 bottom-4 p-4 rounded-full shadow-lg"
+    >
+      <div class="flex justify-around items-center">
+        <template v-if="this.$route.path === '/dashboard'">
+          <img src="../assets/house-active.svg" alt="" />
+        </template>
+        <template v-else>
+          <img src="../assets/house.svg" alt="" />
+        </template>
+        <template v-if="this.$route.path === '/cart'">
+          <img src="../assets/cart-active.svg" alt="" />
+        </template>
+        <template v-else>
+          <img src="../assets/cart.svg" alt="" />
+        </template>
+        <template v-if="this.$route.path === '/community'">
+          <img src="../assets/group-active.svg" alt="" />
+        </template>
+        <template v-else>
+          <img src="../assets/group.svg" alt="" />
+        </template>
+        <template v-if="this.$route.path === '/user'">
+          <img src="../assets/user-active.svg" alt="" />
+        </template>
+        <template v-else>
+          <img src="../assets/user.svg" alt="" />
+        </template>
       </div>
     </div>
   </div>
