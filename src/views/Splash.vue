@@ -1,5 +1,34 @@
+<script setup>
+import Navbar from '../components/Navbar.vue'
+</script>
+
 <template>
-  <div>
-    <h1 class="font-semibold">splash</h1>
+  <Navbar />
+  <div class="px-6 md:px-32 lg:px-56">
+    <div
+      class="md:flex flex-col md:flex-row justify-center items-center h-screen gap-y-14 md:gap-y-0"
+    >
+      <div class="md:w-1/2">
+        <img src="../assets/splash-1.svg" alt="" class="m-auto md:w-[500px]" />
+      </div>
+      <div class="md:w-1/2 mt-12 gap-y-10 flex flex-col md:flex-none">
+        <div class="text-center px-6 md:px-10">
+          <h1 class="font-bold text-xl md:text-3xl">Menjadi Master Seni Mulai Sekarang</h1>
+          <p class="text-sm mt-2 md:text-lg font-light md:px-4">
+            Explore dan perdalam kemampuan senimu bersama komunitas yang solid.
+          </p>
+        </div>
+        <div
+          class="text-sm flex flex-row md:flex-col md:gap-y-4 justify-between items-center font-semibold px-4 md:px-20"
+        >
+          <button class="text-blue-500 py-2 hover:text-blue-600 md:border md:border-blue-500 md:w-full md:rounded-lg md:hover:bg-blue-500 md:hover:text-white">Masuk</button>
+          <button
+            class="bg-blue-500 px-6 py-2 text-white rounded-lg hover:bg-blue-600 md:w-full"
+          >
+            Daftar
+          </button>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
