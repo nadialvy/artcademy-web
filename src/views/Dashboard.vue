@@ -38,5 +38,3 @@ import Search from "../components/Search.vue"
   <!-- bottom bar section -->
   <Bottombar />
 </template>
-
-  components: { Search },
