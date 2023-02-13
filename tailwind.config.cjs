@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+const plugin = require("tailwindcss/plugin");
 
 module.exports = {
   content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
@@ -16,6 +17,18 @@ module.exports = {
     },
   },
   plugins: [
-    require('tw-elements/dist/plugin')
+    require('tw-elements/dist/plugin'),
+    plugin(function({ addUtilities }){
+      const utilities = {
+        ".bg-dashboard": {
+          "background-image": "url(src/assets/rectangle-bg-dashboard.svg)",
+          "background-size": "cover",
+          "background-position": "bottom",
+          "background-repeat": "no-repeat",
+          "padding": "2.2rem 0",
+        },
+      }
+      addUtilities(utilities);
+    })
   ],
 }

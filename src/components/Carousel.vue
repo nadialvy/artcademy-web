@@ -5,7 +5,7 @@ import "tw-elements";
 <template>
   <div
     id="carouselExampleIndicators"
-    class="carousel slide relative mt-6 md:mt-0"
+    class="carousel slide relative mt-8 md:mt-0"
     data-bs-ride="carousel"
     data-bs-interval="2500"
   >
