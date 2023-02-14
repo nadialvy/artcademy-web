@@ -23,9 +23,20 @@
         type="text"
         id="simple-search"
         class="bg-white shadow-md text-gray-700 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-3 dark:bg-white-700 dark:border-white-600 dark:placeholder-white-400 dark:text-gray-700 dark:focus:ring-blue-500 dark:focus:border-blue-500"
-        placeholder="Mau cari kelas? Cari disini..."
+        :placeholder=text
         required
       />
     </div>
   </form>
 </template>
+
+<script>
+export default {
+  props: {
+    text: {
+      type: String,
+      required: true
+    }
+  }
+};
+</script>

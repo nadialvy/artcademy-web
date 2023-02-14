@@ -23,7 +23,7 @@ import Search from "../components/Search.vue"
 
   <div class="px-4">
     <!-- search -->
-    <Search />
+    <Search text="Mau cari kelas? Cari disini..." />
 
     <!-- current course -->
    <CurrentCourse />

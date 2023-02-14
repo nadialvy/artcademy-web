@@ -12,7 +12,7 @@
           class="text-xs text-start mt-2 text-gray-500"
           style="width: 140px; word-wrap: break-word"
         >
-          Pengenalan Batik - Motif-motif batik (2/12) {{ this.$route.path }}
+          Pengenalan Batik - Motif-motif batik (2/12)
         </p>
       </div>
       <div
