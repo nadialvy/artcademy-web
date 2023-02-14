@@ -53,7 +53,7 @@ import EcommerceItem from "../components/EcommerceItem.vue";
     </div>
 
     <!-- fav section -->
-    <div class="bg-white p-4 shadow-md rounded-lg mt-4 mb-10">
+    <div class="bg-white p-4 shadow-md rounded-lg mt-4 mb-16">
       <h1 class="text-lg font-bold mb-2">Barang Tervaforit</h1>
       <div
         class="snap-x mx-auto snap-mandatory flex items-start gap-x-5 w-full overflow-scroll"
