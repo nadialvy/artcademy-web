@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "group_name": "Pecinta Seni",
+      "group_image": "",
+      "user_name": "Ahmad Yaniko",
+      "user_caption": "Jangan biarkan kata-kata hilang di udara, ekspresikanlah melalui seni. Bagikan karya senimu bersama kami di grup seni ini!"
+    },
+    {
+      "id": 2,
+      "group_name": "Malang Nyeni Groups",
+      "group_image": "",
+      "user_name": "Kuru Dharmo",
+      "user_caption": "Jangan pernah takut mengekspresikan dirimu melalui seni, karena seni adalah bahasa universal yang bisa merangkul semua orang. #GrupSeni #EkspresiDiri #BahasaUniversal"
+    },
+    {
+      "id": 3,
+      "group_name": "Lukis Lukis Blitar",
+      "group_image": "",
+      "user_name": "Cece Blitar",
+      "user_caption": "Selamat pagi, teman-teman seniman! Hari ini, mari kita rayakan keindahan ekspresi diri melalui seni. Apa pun jenis seni yang kita tekuni, baik itu lukisan, gambar, patung, musik, tari, atau karya-karya lainnya, marilah kita mengungkapkan apa yang ada di dalam hati kita melalui kreativitas kita."
+    },
+    {
+      "id": 4,
+      "group_name": "Mari Kita Bernyanyi",
+      "group_image": "",
+      "user_name": "Rando Youtuber",
+      "user_caption": "Seni bukan hanya tentang hasil akhir, melainkan juga tentang perjalanan menuju karya yang sempurna. Oleh karena itu, jangan takut untuk bereksperimen, mencoba hal-hal baru, dan belajar dari kesalahan. Jangan lupa, semua seniman besar pernah memulai dari nol dan terus mengasah kemampuan mereka melalui latihan dan dedikasi."
+    },
+    {
+      "id": 5,
+      "group_name": "Design Kediri, Blitar, Tulungagung",
+      "group_image": "",
+      "user_name": "Sri Huning Mustiko Tuban",
+      "user_caption": "Kita punya kekuatan untuk mengubah dunia melalui seni, karena seni adalah bahasa universal yang bisa merangkul semua orang. Melalui seni, kita bisa menyampaikan pesan-pesan penting, menginspirasi orang lain, dan memperkaya kehidupan kita sendiri. Jadi, mari kita terus berkarya, saling menginspirasi, dan menunjukkan keindahan dunia melalui seni. Happy creating, teman-teman! #GrupSeni #EkspresiDiri #BahasaUniversal #SeniAdalahKeindahan"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data":[
+    {
+      "course_name": "course satu",
+      "blabla": "blabla",
+      "detail": {
+        "eps 1": {
+          "title": "blabla",
+          "desc": "blabla",
+          "duration": "blabla"
+        },
+        "eps 2": {
+          "title": "blabla",
+          "desc": "blabla",
+          "duration": "blabla"
+        }
+      }
+    },
+    {
+      "course_name": "course dua",
+      "blabla": "blabla",
+      "detail": {
+        "eps 1": {
+          "title": "blabla",
+          "desc": "blabla",
+          "duration": "blabla"
+        },
+        "eps 2": {
+          "title": "blabla",
+          "desc": "blabla",
+          "duration": "blabla"
+        }
+      }
+    }
+  ]
+}

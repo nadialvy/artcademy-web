@@ -1,0 +1,701 @@
+{
+    "data":[
+        {
+            "id":1,
+            "course_name":"Kelas Desain Busana (Pemula)",
+            "course_image":"",
+            "course_rating":4.2,
+            "course_description":"Kelas seni desain busana untuk pemula yang ingin belajar teknik dasar dalam mendesain pakaian, mulai dari membuat sketsa hingga konstruksi baju",
+            "organization":"Fashion Institute Jakarta",
+            "is_course_saved":false,
+            "course_detail": [
+                {
+                    "lesson_title":"01 - Membuat Sketsa Desain Busana",
+                    "lesson_thumbnail":"",
+                    "lesson_time":30,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Mempelajari teknik sketsa dasar",
+                            "chapter_time": "00:10"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Menggambar bentuk tubuh manusia",
+                            "chapter_time": "00:25"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Menggambar busana pria",
+                            "chapter_time": "00:37"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Menggambar busana wanita",
+                            "chapter_time": "00:48"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Menggambar detail busana",
+                            "chapter_time": "01:02"
+                        }
+                    ]
+                },
+                {
+                    "lesson_title":"02 - Menggunakan Bahan dan Warna dalam Desain Busana",
+                    "lesson_thumbnail":"",
+                    "lesson_time":45,
+                    "lesson_chapter": [
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Mempelajari berbagai jenis kain",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Memahami Warna",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Mencampur Warna",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Membuat Pola Kain",
+                            "chapter_time": "1:00"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Mengkombinasikan Warna dan Kain",
+                            "chapter_time": "1:15"
+                        }                        
+                    ]
+                },
+                {
+                    "lesson_title":"03 - Memotong dan Merakit Kain",
+                    "lesson_thumbnail":"",
+                    "lesson_time":60,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number":1,
+                            "chapter_name":"Pemilihan Kain",
+                            "chapter_time":"0:05"
+                        },
+                        {
+                            "chapter_number":2,
+                            "chapter_name":"Mengukur Kain",
+                            "chapter_time":"1:30"
+                        },
+                        {
+                            "chapter_number":3,
+                            "chapter_name":"Memotong Kain",
+                            "chapter_time":"3:45"
+                        },
+                        {
+                            "chapter_number":4,
+                            "chapter_name":"Merakit Potongan Kain",
+                            "chapter_time":"4:00"
+                        },
+                        {
+                            "chapter_number":5,
+                            "chapter_name":"Menjahit Bagian-Bagian Kain",
+                            "chapter_time":"5:30"
+                        }
+                    ]
+                },
+                {
+                    "lesson_title":"04 - Menyelesaikan Konstruksi Baju",
+                    "lesson_thumbnail":"",
+                    "lesson_time":60,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number":1,
+                            "chapter_name":"Mengukur Tubuh",
+                            "chapter_time":"0:45"
+                        },
+                        {
+                            "chapter_number":2,
+                            "chapter_name":"Memotong Pola",
+                            "chapter_time":"1:15"
+                        },
+                        {
+                            "chapter_number":3,
+                            "chapter_name":"Merakit Baju",
+                            "chapter_time":"1:30"
+                        },
+                        {
+                            "chapter_number":4,
+                            "chapter_name":"Menjahit Bagian-bagian Baju",
+                            "chapter_time":"2:00"
+                        },
+                        {
+                            "chapter_number":5,
+                            "chapter_name":"Menyelesaikan Detail Baju",
+                            "chapter_time":"1:45"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":2,
+            "course_name":"Kelas Fashion Illustration",
+            "course_image":"",
+            "course_rating":4.8,
+            "course_description":"Kelas seni desain busana yang membahas tentang teknik menggambar fashion illustration, mulai dari sketsa hingga rendering menggunakan software Adobe Photoshop",
+            "organization":"Fashion School Bandung",
+            "is_course_saved":false,
+            "course_detail": [
+                {
+                    "lesson_title":"01 - Teknik Membuat Sketsa Fashion",
+                    "lesson_thumbnail":"",
+                    "lesson_time":30,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Pengenalan Sketsa Fashion",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Perspektif dalam Sketsa Fashion",
+                            "chapter_time": "1:00"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Menggambar Garis pada Sketsa Fashion",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Menggunakan Teknik Shading dalam Sketsa Fashion",
+                            "chapter_time": "1:15"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Menerapkan Warna dalam Sketsa Fashion",
+                            "chapter_time": "1:30"
+                        }
+                    ]
+                },
+                {
+                    "lesson_title":"02 - Pemahaman Proportions dalam Fashion Illustration",
+                    "lesson_thumbnail":"",
+                    "lesson_time":45,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Mengenal Proporsi dalam Fashion Illustration",
+                            "chapter_time": "0:05"
+                          },
+                          {
+                            "chapter_number": 2,
+                            "chapter_name": "Pemahaman proporsi Tubuh Manusia",
+                            "chapter_time": "0:45"
+                          },
+                          {
+                            "chapter_number": 3,
+                            "chapter_name": "Memahami Perbandingan Antara Kepala, Tubuh, dan Kaki",
+                            "chapter_time": "1:45"
+                          },
+                          {
+                            "chapter_number": 4,
+                            "chapter_name": "Membuat Sketsa dengan Proporsi yang Tepat",
+                            "chapter_time": "2:15"
+                          },
+                          {
+                            "chapter_number": 5,
+                            "chapter_name": "Menggunakan Tools untuk Membuat Sketsa Proporsional",
+                            "chapter_time": "3:30"
+                          }
+                    ]
+                },
+                {
+                    "lesson_title":"03 - Menambahkan Warna pada Fashion Illustration",
+                    "lesson_thumbnail":"",
+                    "lesson_time":60,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Mempelajari Teknik Color Blocking",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Mencampur Warna yang Berbeda",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Menerapkan Warna pada Desain",
+                            "chapter_time": "0:50"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Membuat Sketsa Warna dengan Adobe Illustrator",
+                            "chapter_time": "1:00"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Menyesuaikan Warna dengan Jenis Kain",
+                            "chapter_time": "1:15"
+                        }
+                    ]
+                },
+                {
+                    "lesson_title":"04 - Menggunakan Adobe Photoshop untuk Fashion Illustration",
+                    "lesson_thumbnail":"",
+                    "lesson_time":60,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Mengenal Adobe Photoshop untuk Fashion Illustration",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Menyesuaikan Pengaturan Dasar Adobe Photoshop",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Menggunakan Layer dalam Adobe Photoshop",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Menggunakan Alat Gambar dalam Adobe Photoshop",
+                            "chapter_time": "1:00"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Mengaplikasikan Warna pada Fashion Illustration dengan Adobe Photoshop",
+                            "chapter_time": "1:15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":3,
+            "course_name":"Kelas Desain Aksesoris",
+            "course_image":"",
+            "course_rating":4.5,
+            "course_description":"Kelas seni desain busana yang membahas tentang teknik mendesain aksesoris, mulai dari ideation, pembuatan sketsa, hingga konstruksi aksesoris",
+            "organization":"Indonesian Fashion Designers",
+            "is_course_saved":false,
+            "course_detail": [
+                {
+                    "lesson_title":"01 - Ideation dan Sketsa Aksesoris",
+                    "lesson_thumbnail":"",
+                    "lesson_time":30,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Mengenal Aksesoris Fashion",
+                            "chapter_time": "0:30"
+                          },
+                          {
+                            "chapter_number": 2,
+                            "chapter_name": "Idea Generation",
+                            "chapter_time": "0:45"
+                          },
+                          {
+                            "chapter_number": 3,
+                            "chapter_name": "Menggambar Sketsa Aksesoris",
+                            "chapter_time": "1:00"
+                          },
+                          {
+                            "chapter_number": 4,
+                            "chapter_name": "Menggunakan Teknik Scherenschnitte untuk Aksesoris",
+                            "chapter_time": "0:45"
+                          },
+                          {
+                            "chapter_number": 5,
+                            "chapter_name": "Membuat Pola dan Prototipe Aksesoris",
+                            "chapter_time": "1:15"
+                          }
+                    ]
+                },
+                {
+                    "lesson_title":"02 - Pemilihan Bahan dan Teknik Konstruksi Aksesoris",
+                    "lesson_thumbnail":"",
+                    "lesson_time":45,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Pemilihan Bahan",
+                            "chapter_time": "0:45"
+                          },
+                          {
+                            "chapter_number": 2,
+                            "chapter_name": "Teknik Membuat Pola Aksesoris",
+                            "chapter_time": "1:15"
+                          },
+                          {
+                            "chapter_number": 3,
+                            "chapter_name": "Teknik Memotong Bahan Aksesoris",
+                            "chapter_time": "1:30"
+                          },
+                          {
+                            "chapter_number": 4,
+                            "chapter_name": "Teknik Merakit Bahan Aksesoris",
+                            "chapter_time": "1:45"
+                          },
+                          {
+                            "chapter_number": 5,
+                            "chapter_name": "Teknik Finishing pada Aksesoris",
+                            "chapter_time": "1:00"
+                          }
+                          
+                    ]
+                },
+                {
+                    "lesson_title":"03 - Pembuatan Prototipe Aksesoris",
+                    "lesson_thumbnail":"",
+                    "lesson_time":60,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Membuat sketsa desain aksesoris",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Membuat pattern aksesoris",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Mengukur dan memotong bahan aksesoris",
+                            "chapter_time": "1:15"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Merakit aksesoris",
+                            "chapter_time": "1:00"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Menyelesaikan prototipe aksesoris",
+                            "chapter_time": "0:45"
+                        }
+                        
+                    ]
+                },
+                {
+                    "lesson_title":"04 - Finishing Aksesoris dan Packaging",
+                    "lesson_thumbnail":"",
+                    "lesson_time":60,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number":1,
+                            "chapter_name":"Mengenal Proses Finishing Aksesoris",
+                            "chapter_time":"0:45"
+                        },
+                        {
+                            "chapter_number":2,
+                            "chapter_name":"Teknik Finishing Aksesoris",
+                            "chapter_time":"0:45"
+                        },
+                        {
+                            "chapter_number":3,
+                            "chapter_name":"Pemilihan dan Aplikasi Packaging",
+                            "chapter_time":"0:30"
+                        },
+                        {
+                            "chapter_number":4,
+                            "chapter_name":"Tren Packaging Terkini",
+                            "chapter_time":"0:30"
+                        },
+                        {
+                            "chapter_number":5,
+                            "chapter_name":"Menjaga Kualitas Produk dengan Packaging yang Baik",
+                            "chapter_time":"1:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":4,
+            "course_name":"Kelas Dasar Menggambar Busana",
+            "course_image":"",
+            "course_rating":4.2,
+            "course_description":"Kelas dasar untuk belajar menggambar busana, teknik shading dan perspektif sehingga dapat menghasilkan ilustrasi busana yang memukau",
+            "organization":"Design Academy",
+            "is_course_saved":false,
+            "course_detail": [
+                {
+                    "lesson_title":"00 - Pengenalan Menggambar Busana",
+                    "lesson_thumbnail":"",
+                    "lesson_time":42,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number":1,
+                            "chapter_name":"Mengenal Proses Finishing Aksesoris",
+                            "chapter_time":"0:45"
+                        },
+                        {
+                            "chapter_number":2,
+                            "chapter_name":"Teknik Finishing Aksesoris",
+                            "chapter_time":"0:45"
+                        },
+                        {
+                            "chapter_number":3,
+                            "chapter_name":"Pemilihan dan Aplikasi Packaging",
+                            "chapter_time":"0:30"
+                        },
+                        {
+                            "chapter_number":4,
+                            "chapter_name":"Tren Packaging Terkini",
+                            "chapter_time":"0:30"
+                        },
+                        {
+                            "chapter_number":5,
+                            "chapter_name":"Menjaga Kualitas Produk dengan Packaging yang Baik",
+                            "chapter_time":"1:00"
+                        }
+                    ]
+                },
+                {
+                    "lesson_title":"01 - Menggambar Rangka Tubuh Manusia",
+                    "lesson_thumbnail":"",
+                    "lesson_time":60,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Menggambar Garis Dasar Tubuh Manusia",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Menggambar Proporsi Tubuh Manusia",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Menggambar Detail Wajah dan Rambut",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Menggambar Proporsi Tangan dan Kaki",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Menggambar Pose Tubuh Manusia",
+                            "chapter_time": "0:30"
+                        }
+                    ]
+                },
+                {
+                    "lesson_title":"02 - Menggambar Model Busana Wanita",
+                    "lesson_thumbnail":"",
+                    "lesson_time":75,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Proportions dalam Menggambar Model Busana",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Menggambar Sketsa Tubuh Wanita",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Menggambar Proporsi Wajah Wanita",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Menggambar Rambut Wanita",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Menggambar Pakaian Wanita",
+                            "chapter_time": "1:00"
+                        }
+                    ]
+                },
+                {
+                    "lesson_title":"03 - Teknik Shading",
+                    "lesson_thumbnail":"",
+                    "lesson_time":90,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Pengenalan Teknik Shading",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Teknik Shading dengan Pensil",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Teknik Shading dengan Cat Air",
+                            "chapter_time": "1:00"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Teknik Shading dengan Spidol",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Menerapkan Teknik Shading pada Desain Busana",
+                            "chapter_time": "1:15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":5,
+            "course_name":"Kelas Pemula Desain Busana",
+            "course_image":"",
+            "course_rating":4.8,
+            "course_description":"Kelas pemula yang akan memperkenalkan dasar-dasar desain busana, mulai dari memilih bahan hingga membuat pola",
+            "organization":"Fashion School",
+            "is_course_saved":false,
+            "course_detail": [
+                {
+                    "lesson_title":"00 - Pengenalan Desain Busana",
+                    "lesson_thumbnail":"",
+                    "lesson_time":30,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Sejarah Desain Busana",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Prinsip-Prinsip Desain",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Proses Desain",
+                            "chapter_time": "1:00"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Peralatan Desain",
+                            "chapter_time": "0:30"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Industri Fashion",
+                            "chapter_time": "0:45"
+                        }
+                    ]
+                },
+                {
+                    "lesson_title":"01 - Memilih Bahan",
+                    "lesson_thumbnail":"",
+                    "lesson_time":45,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number":6,
+                            "chapter_name":"Memilih Bahan",
+                            "chapter_time":"1:00"
+                        },
+                        {
+                            "chapter_number":7,
+                            "chapter_name":"Tipe Kain dan Fungsinya",
+                            "chapter_time":"1:30"
+                        },
+                        {
+                            "chapter_number":8,
+                            "chapter_name":"Warna dan Pola dalam Pemilihan Bahan",
+                            "chapter_time":"1:30"
+                        },
+                        {
+                            "chapter_number":9,
+                            "chapter_name":"Bahan Ramah Lingkungan",
+                            "chapter_time":"1:00"
+                        },
+                        {
+                            "chapter_number":10,
+                            "chapter_name":"Memperoleh Bahan dari Sumber Lokal",
+                            "chapter_time":"1:00"
+                        }
+                    ]
+                },
+                {
+                    "lesson_title":"02 - Memahami Pola Dasar",
+                    "lesson_thumbnail":"",
+                    "lesson_time":60,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Pola dasar atasan wanita bagian depan",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 2,
+                            "chapter_name": "Pola dasar atasan wanita bagian belakang",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 3,
+                            "chapter_name": "Pola dasar rok wanita bagian depan",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 4,
+                            "chapter_name": "Pola dasar rok wanita bagian belakang",
+                            "chapter_time": "0:45"
+                        },
+                        {
+                            "chapter_number": 5,
+                            "chapter_name": "Pola dasar celana wanita bagian depan",
+                            "chapter_time": "0:45"
+                        }
+                    ]
+                },
+                {
+                    "lesson_title":"03 - Membuat Pola Busana",
+                    "lesson_thumbnail":"",
+                    "lesson_time":75,
+                    "lesson_chapter":[
+                        {
+                            "chapter_number": 1,
+                            "chapter_name": "Mengambil Ukuran Badan",
+                            "chapter_time": "0:30"
+                         },
+                         {
+                            "chapter_number": 2,
+                            "chapter_name": "Membuat Sketsa Dasar Pola Busana",
+                            "chapter_time": "0:30"
+                         },
+                         {
+                            "chapter_number": 3,
+                            "chapter_name": "Membuat Pola Bagian Atas Busana",
+                            "chapter_time": "0:30"
+                         },
+                         {
+                            "chapter_number": 4,
+                            "chapter_name": "Membuat Pola Bagian Bawah Busana",
+                            "chapter_time": "0:30"
+                         },
+                         {
+                            "chapter_number": 5,
+                            "chapter_name": "Membuat Pola Rok dan Kerutan",
+                            "chapter_time": "0:30"
+                         }
+                    ]
+                }
+            ]
+        }
+    ]
+}

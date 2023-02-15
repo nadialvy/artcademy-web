@@ -69,20 +69,43 @@ import Bottombar from "../components/Bottombar.vue";
     </div>
 
     <!-- post -->
-    <div class="bg-white rounded-md shadow-md p-4">
-      <!-- user info -->
-      <div class="flex gap-x-4">
-        <img src="../assets/user-profile.svg" alt="user profile" class="w-10">
-        <div>
-          <p class="font-semibold">Anapati Putri</p>
-          <p class="text-sm -mt-1 text-gray-400">Pecinta Seni</p>
+    <template v-for="(post, i) in posts" :key="i">
+      <div class="bg-white rounded-md shadow-md p-4 mb-4">
+        <!-- user info -->
+        <div class="flex gap-x-4">
+          <img
+            src="../assets/user-profile.svg"
+            alt="user profile"
+            class="w-10"
+          />
+          <div>
+            <p class="font-semibold">{{ post.user_name }}</p>
+            <p class="text-sm -mt-1 text-gray-400">{{ post.group_name }}</p>
+          </div>
         </div>
-      </div>
 
-      <!-- caption -->
-      <p class="text-sm mt-4">Selamat bergabung di pecinta seni malang, semoga kita bisa berkolaborasi satu sama lain ya!!! Semangat !!!</p>
-      <img src="../assets/post-community.svg" alt="post community" class="mt-4">
-    </div>
+        <!-- caption -->
+        <p class="text-sm mt-4">
+          {{ post.user_caption }}
+        </p>
+        <img
+          src="../assets/post-community.svg"
+          alt="post community"
+          class="mt-4"
+        />
+      </div>
+    </template>
   </div>
   <Bottombar />
 </template>
+
+<script>
+import communityPost from "../data/community-post.json";
+export default {
+  data() {
+    return {
+      posts: communityPost.data,
+    };
+  },
+};
+</script>

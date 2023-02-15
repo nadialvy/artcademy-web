@@ -5,6 +5,7 @@ import Dashboard from "../views/Dashboard.vue";
 import Community from "../views/Community.vue";
 import Profile from "../views/Profile.vue";
 import Ecommerce from "../views/Ecommerce.vue";
+import ListCourse from "../views/ListCourse.vue";
 
 const routes = [
   {
