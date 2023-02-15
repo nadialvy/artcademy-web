@@ -33,6 +33,12 @@ const routes = [
     name: "Ecommerce",
     component: Ecommerce,
   },
+  {
+    path: "/listcourse/:course_name",
+    name: "ListCourse",
+    component: ListCourse,
+    props: true,
+  }
 
 ];
 

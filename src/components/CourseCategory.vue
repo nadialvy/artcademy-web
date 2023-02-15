@@ -4,10 +4,12 @@
     <div class="flex flex-wrap justify-start items-start mt-4 gap-y-3">
       <template v-for="(category, i) in categories" :key="i">
         <div class="w-1/3">
-          <div class="flex flex-col items-center justify-center gap-y-1">
-            <img :src="category.img" :alt="category.title" class="w-10" />
-            <p class="text-xs px-2 text-center">{{ category.title }}</p>
-          </div>
+          <router-link :to="{ name: 'ListCourse', params: {course_name: category.path} }">
+            <div class="flex flex-col items-center justify-center gap-y-1">
+              <img :src="category.img" :alt="category.title" class="w-10" />
+              <p class="text-xs px-2 text-center">{{ category.title }}</p>
+            </div>
+          </router-link>
         </div>
       </template>
     </div>

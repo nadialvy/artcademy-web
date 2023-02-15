@@ -2,34 +2,38 @@
   "data": [
     {
       "img": "2d.svg",
-      "title": "Kerajinan Tangan 2 Dimensi"
+      "title": "Kerajinan Tangan 2 Dimensi",
+      "path": "kerajinan-tangan-2-dimensi"
     },
     {
       "img": "photography.svg",
-      "title": "Fotografi"
+      "title": "Fotografi",
+      "path": "fotografi"
     },
     {
       "img": "fashion-design.svg",
       "title": "Desain Busana",
-      "list_course": {
-        "data": "./desain-busana.json"
-      }
+      "path": "desain-busana"
     },
     {
       "img": "design-graphic.svg",
-      "title": "Desain Grafis"
+      "title": "Desain Grafis",
+      "path": "desain-grafis"
     },
     {
       "img": "printmaking.svg",
-      "title": "Printmaking"
+      "title": "Printmaking",
+      "path": "printmaking"
     },
     {
       "img": "3d.svg",
-      "title": "Kerajinan Tangan 3 Dimensi"
+      "title": "Kerajinan Tangan 3 Dimensi",
+      "path": "kerajinan-tangan-3-dimensi"
     },
     {
       "img": "music-dance.svg",
-      "title": "Musik & Tari"
+      "title": "Musik & Tari",
+      "path": "musik-tari"
     }
   ]
 }
