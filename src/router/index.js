@@ -6,6 +6,7 @@ import Community from "../views/Community.vue";
 import Profile from "../views/Profile.vue";
 import Ecommerce from "../views/Ecommerce.vue";
 import ListCourse from "../views/ListCourse.vue";
+import CourseDetail from "../views/CourseDetail.vue";
 
 const routes = [
   {
@@ -34,9 +35,15 @@ const routes = [
     component: Ecommerce,
   },
   {
-    path: "/listcourse/:course_name",
+    path: "/listcourse/:course_category",
     name: "ListCourse",
     component: ListCourse,
+    props: true,
+  },
+  {
+    path: "/listcourse/:course_category/:id",
+    name: "CourseDetail",
+    component: CourseDetail,
     props: true,
   }
 

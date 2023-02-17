@@ -25,7 +25,7 @@ module.exports = {
     plugin(function({ addUtilities }){
       const utilities = {
         ".bg-dashboard": {
-          "background-image": "url(src/assets/rectangle-bg-dashboard.svg)",
+          "background-image": "url(./public/rectangle-bg-dashboard.svg)",
           "background-size": "cover",
           "background-position": "bottom",
           "background-repeat": "no-repeat",
