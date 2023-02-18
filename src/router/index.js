@@ -7,12 +7,18 @@ import Profile from "../views/Profile.vue";
 import Ecommerce from "../views/Ecommerce.vue";
 import ListCourse from "../views/ListCourse.vue";
 import CourseDetail from "../views/CourseDetail.vue";
+import Login from "../views/Login.vue";
 
 const routes = [
   {
     path: "/",
     name: "Splash",
     component: Splash,
+  },
+  {
+    path: "/login",
+    name: "Login",
+    component: Login,
   },
   {
     path: "/dashboard",
