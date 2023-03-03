@@ -6,14 +6,18 @@ import CourseCard from "../components/CourseCard.vue";
 
 <template>
   <div class="bg-dashboard md:bg-none">
-    <p @click="goBack()" class="text-white font-semibold text-3xl pl-2">
-      ← <span class="text-sm">Pelajaran</span>
-    </p>
+    <div class="flex justify-between items-center">
+      <p @click="goBack()" class="text-white font-bold text-2xl pl-2">←</p>
+      <p class="text-white font-bold mr-10">Pelajaran</p>
+      <div></div>
+    </div>
   </div>
   <div class="px-4">
     <Search text="Mau cari kelas? cari disini..." />
     <template v-for="(course, i) in courses" :key="i">
-      <router-link :to="`/listcourse/${$route.params.course_category}/${course.id}`">
+      <router-link
+        :to="`/listcourse/${$route.params.course_category}/${course.id}`"
+      >
         <CourseCard
           :course_name="course.course_name"
           :organization="course.organization"
@@ -32,7 +36,7 @@ export default {
     },
   },
   data() {
-  return {
+    return {
       courses: [],
     };
   },
