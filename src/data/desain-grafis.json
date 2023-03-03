@@ -1,0 +1,209 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "course_name": "Seni Grafis dengan Adobe Illustrator",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kursus Seni Grafis dengan Adobe Illustrator ini memberikan pengenalan lengkap tentang aplikasi desain grafis terkemuka. Dalam kursus ini, Anda akan belajar berbagai tools dan teknik dasar dalam Adobe Illustrator untuk membuat karya seni yang menarik.",
+      "organization": "Artzmedia",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Adobe Illustrator",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Penggunaan Tools Dasar",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Membuat Ilustrasi Vektor",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Membuat Desain Logo",
+          "lesson_thumbnail": "",
+          "lesson_time": 75,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Membuat Karya Seni Digital",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "course_name": "Kelas Adobe Photoshop untuk Pemula",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kelas Adobe Photoshop ini dirancang untuk pemula yang ingin belajar menguasai aplikasi edit foto dan desain grafis Adobe Photoshop. Dalam kelas ini, Anda akan belajar tentang berbagai tools dan teknik dasar dalam Adobe Photoshop.",
+      "organization": "Artzmedia",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Mengenal Interface Adobe Photoshop",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Menggunakan Tool Selection",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Menggunakan Tool Painting",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Membuat dan Mengatur Layer",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Menerapkan Teknik Efek pada Gambar",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "course_name": "Kelas Canva untuk Desain Grafis",
+      "course_image": "",
+      "course_rating": 4.7,
+      "course_description": "Kelas Canva ini dirancang untuk memperkenalkan Anda pada aplikasi desain grafis online Canva. Dalam kelas ini, Anda akan belajar tentang berbagai tools dan teknik untuk membuat desain grafis yang menarik dan profesional dengan menggunakan Canva.",
+      "organization": "Canva Academy",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Canva",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Membuat Desain Grafis dengan Canva",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Desain Grafis untuk Media Sosial",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Desain Grafis untuk Bisnis",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Mengembangkan Keterampilan Desain Grafis Anda",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "course_name": "Belajar Adobe After Effects untuk Motion Graphics",
+      "course_image": "",
+      "course_rating": 4.8,
+      "course_description": "Kursus ini akan memperkenalkan Anda ke dunia motion graphics dengan menggunakan Adobe After Effects. Anda akan mempelajari teknik-teknik animasi, efek visual, dan compositing yang akan membantu Anda dalam membuat proyek motion graphics.",
+      "organization": "Motion School",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Adobe After Effects",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Dasar-dasar Animasi",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Membuat Efek Visual",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Compositing",
+          "lesson_thumbnail": "",
+          "lesson_time": 75,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Menyelesaikan Proyek",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "course_name": "Kelas Figma untuk Desain UI/UX",
+      "course_image": "",
+      "course_rating": 4.6,
+      "course_description": "Kursus ini akan memperkenalkan Anda ke alat desain UI/UX populer yaitu Figma. Anda akan belajar tentang desain komponen, layout, interaksi, dan prototyping dalam Figma. Kursus ini cocok bagi Anda yang ingin memulai karir di bidang desain UI/UX atau ingin meningkatkan keterampilan desain Anda.",
+      "organization": "Design Academy",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Figma",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Desain Komponen",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Layout Desain",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Interaksi",
+          "lesson_thumbnail": "",
+          "lesson_time": 75,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Prototyping",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    }
+  ]
+}

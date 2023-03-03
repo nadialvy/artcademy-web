@@ -29,8 +29,7 @@ module.exports = {
           "background-size": "cover",
           "background-position": "bottom",
           "background-repeat": "no-repeat",
-          padding: "2.2rem 0",
-        },
+          padding: "var(--bg-dashboard-padding, 1rem 0)",        },
       };
       addUtilities(utilities);
     }),

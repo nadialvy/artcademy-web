@@ -1,6 +1,5 @@
 <script setup>
 import axios from "axios";
-import CourseDetailCard from "../components/CourseDetailCard.vue";
 import DetailCourseCard from "../components/DetailCourseCard.vue";
 </script>
 <template>
@@ -28,7 +27,7 @@ import DetailCourseCard from "../components/DetailCourseCard.vue";
 
     <div class="flex justify-between items-center mt-2 mb-4">
       <p class="font-semibold text-gray-700">
-        {{ course_details[0].course_detail[0].lesson_chapter.length }} Materi
+        {{ course_details[0].course_detail.length }} Materi
       </p>
       <div class="flex items-center gap-x-2">
         <img src="../assets/clock.svg" alt="course time" />
@@ -50,7 +49,7 @@ import DetailCourseCard from "../components/DetailCourseCard.vue";
   <button
     class="bg-blue-500 z-10 fixed-bottom bottom-4 right-2 left-2 p-2 rounded-md w-full shadow-lg text-white font-semibold"
   >
-    Kerjakan Tes
+    Ambil Kelas
   </button>
 </template>
 

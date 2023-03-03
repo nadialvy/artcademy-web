@@ -6,8 +6,8 @@ import EcommerceItem from "../components/EcommerceItem.vue";
 </script>
 <template>
   <Navbar />
-  <div class="bg-dashboard md:bg-none">
-    <div class="flex justify-between items-center px-4">
+  <div class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 2rem;">
+    <div class="flex justify-between items-center">
       <div>
         <p class="text-xs font-bold text-white">Saldo anda</p>
         <p class="font-bold text-white text-xl -mt-1">Rp164.500</p>

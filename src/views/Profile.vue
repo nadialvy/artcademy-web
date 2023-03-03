@@ -2,7 +2,7 @@
 import Bottombar from "../components/Bottombar.vue";
 </script>
 <template>
-  <div class="bg-dashboard md:bg-none"></div>
+  <div class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 2rem;"></div>
 
   <!-- ava section -->
   <div class="px-4">

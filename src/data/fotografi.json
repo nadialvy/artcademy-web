@@ -1,0 +1,171 @@
+{
+  "id": 1,
+  "course_name": "Kelas Fotografi (Pemula)",
+  "course_image": "",
+  "course_rating": 4.8,
+  "course_description": "Kelas seni fotografi untuk pemula yang tertarik belajar teknik dasar dalam fotografi",
+  "organization": "Fotografi Academy Surabaya",
+  "is_course_saved": false,
+  "course_detail": [
+    {
+      "lesson_title": "01 - Kelas Fotogradi",
+      "lesson_thumbnail": "",
+      "lesson_time": 25,
+      "lesson_chapter": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Apa itu Fotografi",
+          "chapter_time": "00:10"
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Apa itu ISO? dan Cara Memahami ISO",
+          "chapter_time": "00:25"
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Apa itu Aperture? dan Cara Memahami Aparture",
+          "chapter_time": "00:37"
+        },
+        {
+          "chapter_number": 4,
+          "chapter_name": "Apa itu Shutter Speed? dan Cara Kerja Shutter Speed",
+          "chapter_time": "00:48"
+        },
+        {
+          "chapter_number": 5,
+          "chapter_name": "Memahami Exposure dan Cara Mengatur Exposure",
+          "chapter_time": "01:02"
+        }
+      ]
+    },
+    {
+      "lesson_title": "02 - Cara Memegang DSLR yang Benar",
+      "lesson_thumbnail": "",
+      "lesson_time": 45,
+      "lesson_chapter": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Postur Tubuh yang Benar saat Motret",
+          "chapter_time": "0:45"
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Penjelasan tentang tombol Pada DSLR",
+          "chapter_time": "0:30"
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Apa itu White Balance dan Cara Memahami White Balance",
+          "chapter_time": "0:45"
+        },
+        {
+          "chapter_number": 4,
+          "chapter_name": "Perbedaan Motret Pakai RAW vs JPEG",
+          "chapter_time": "1:00"
+        },
+        {
+          "chapter_number": 5,
+          "chapter_name": "Memahami Mode Metering pada DSLR/Mirrrorless",
+          "chapter_time": "1:15"
+        }
+      ]
+    },
+    {
+      "lesson_title": "03 - Memahami Local Length",
+      "lesson_thumbnail": "",
+      "lesson_time": 60,
+      "lesson_chapter": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Belajar Foto Menggunakan Komposisi Rule Of Thrid",
+          "chapter_time": "0:05"
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Penggunaan garis foto",
+          "chapter_time": "1:30"
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Penempatan Objek Manusia pada garis Foto",
+          "chapter_time": "3:45"
+        },
+        {
+          "chapter_number": 4,
+          "chapter_name": "Pemotretan Alam dengan garis foto",
+          "chapter_time": "4:00"
+        },
+        {
+          "chapter_number": 5,
+          "chapter_name": "Berlatih Memfoto Objek Manusia ataupun Alam",
+          "chapter_time": "5:30"
+        }
+      ]
+    },
+    {
+      "lesson_title": "04 - Belajar Rasio",
+      "lesson_thumbnail": "",
+      "lesson_time": 60,
+      "lesson_chapter": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Golden Ratio",
+          "chapter_time": "0:45"
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Belajar Pemfokusan Kamera",
+          "chapter_time": "1:15"
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Memahami Viewfinder",
+          "chapter_time": "1:30"
+        },
+        {
+          "chapter_number": 4,
+          "chapter_name": "Fakta Unik tentang Fotografi",
+          "chapter_time": "2:00"
+        },
+        {
+          "chapter_number": 5,
+          "chapter_name": "Peluang Positif Menjadi Fotografi",
+          "chapter_time": "1:45"
+        }
+      ]
+    },
+    {
+      "lesson_title": "05 - Luar Kelas",
+      "lesson_thumbnail": "",
+      "lesson_time": 60,
+      "lesson_chapter": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Memahami Fungsi Histogram",
+          "chapter_time": "0:45"
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Mengenal ukuran Sensor Kamera: APSC & Full Frame",
+          "chapter_time": "1:15"
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Memahami Pentingnya Lensa Kamera",
+          "chapter_time": "1:30"
+        },
+        {
+          "chapter_number": 4,
+          "chapter_name": "Memahami Panjang Fokal Lensa",
+          "chapter_time": "2:00"
+        },
+        {
+          "chapter_number": 5,
+          "chapter_name": "Fakta Keren Fisheye",
+          "chapter_time": "1:45"
+        }
+      ]
+    }
+  ]
+}

@@ -8,8 +8,8 @@ import Search from "../components/Search.vue"
 </script>
 <template>
   <Navbar />
-  <div class="bg-dashboard md:bg-none">
-    <div class="flex justify-between items-start px-4">
+  <div class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 1.5rem;">
+    <div class="flex justify-between items-start">
       <div>
         <p class="text-xs font-bold text-white">Selamat datang,</p>
         <p class="font-bold text-white text-xl -mt-1">Anapati</p>

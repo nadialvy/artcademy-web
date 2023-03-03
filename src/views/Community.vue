@@ -4,7 +4,7 @@ import Bottombar from "../components/Bottombar.vue";
 </script>
 <template>
   <Navbar />
-  <div class="bg-dashboard md:bg-none"></div>
+  <div class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 2rem;"></div>
 
   <div class="p-4">
     <!-- header section -->
