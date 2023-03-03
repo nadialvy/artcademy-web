@@ -1,4 +1,5 @@
 <script setup>
+import axios from "axios";
 import Navbar from "../components/Navbar.vue";
 import Bottombar from "../components/Bottombar.vue";
 import Search from "../components/Search.vue";
@@ -6,7 +7,7 @@ import EcommerceItem from "../components/EcommerceItem.vue";
 </script>
 <template>
   <Navbar />
-  <div class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 2rem;">
+  <div class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 2rem">
     <div class="flex justify-between items-center">
       <div>
         <p class="text-xs font-bold text-white">Saldo anda</p>
@@ -34,11 +35,13 @@ import EcommerceItem from "../components/EcommerceItem.vue";
       <div
         class="snap-x mx-auto snap-mandatory flex items-start gap-x-5 w-full overflow-scroll"
       >
+      <router-link to="/ecommerce/detail/teko-keramik-antik">
         <EcommerceItem
           title="Teko Keramik Antik Biru Putih"
           price="Rp120.000"
           imagePath="most-buyed-1.svg"
         />
+      </router-link>
         <EcommerceItem
           title="KANA Astratta - Painting / Lukisan"
           price="Rp650.000"
@@ -58,11 +61,13 @@ import EcommerceItem from "../components/EcommerceItem.vue";
       <div
         class="snap-x mx-auto snap-mandatory flex items-start gap-x-5 w-full overflow-scroll"
       >
-        <EcommerceItem
-          title="Patung Fu Dog Emas Sepasang"
-          price="Rp1.320.000"
-          imagePath="fav-1.svg"
-        />
+        <router-link to="/ecommerce/detail/1">
+          <EcommerceItem
+            title="Patung Fu Dog Emas Sepasang"
+            price="Rp1.320.000"
+            imagePath="fav-1.svg"
+          />
+        </router-link>
         <EcommerceItem
           title="Batik Keris Tas Nylon Rajut"
           price="Rp830.000"
@@ -80,3 +85,40 @@ import EcommerceItem from "../components/EcommerceItem.vue";
   <!-- bottom bar section -->
   <Bottombar />
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      favItems: [],
+      mostBuyedItems: [],
+    };
+  },
+  created() {
+    this.getFavItems();
+    this.getMostBuyedItems();
+  },
+  methods: {
+    getFavItems() {
+      axios
+        .get(`/src/data/fav-item.json`)
+        .then((response) => {
+          this.favItems = response.data.data;
+        })
+        .catch((error) => {
+          console.log(error);
+        });
+    },
+    getMostBuyedItems() {
+      axios
+        .get(`/src/data/most-buyed-item.json`)
+        .then((response) => {
+          this.mostBuyedItems = response.data.data;
+        })
+        .catch((error) => {
+          console.log(error);
+        });
+    },
+  },
+};
+</script>

@@ -9,6 +9,8 @@ import ListCourse from "../views/ListCourse.vue";
 import CourseDetail from "../views/CourseDetail.vue";
 import Login from "../views/Login.vue";
 import TakeClass from "../views/TakeClass.vue";
+import Level from "../views/Level.vue";
+import DetailItem from "../views/DetailItem.vue";
 
 const routes = [
   {
@@ -42,6 +44,12 @@ const routes = [
     component: Ecommerce,
   },
   {
+    path: "/ecommerce/detail/:item_name", //FIX THIS
+    name: "DetailItem",
+    component: DetailItem,
+    // props: true,
+  },
+  {
     path: "/listcourse/:course_category",
     name: "ListCourse",
     component: ListCourse,
@@ -57,6 +65,11 @@ const routes = [
     path: "/takeclass",
     name: "TakeClass",
     component: TakeClass,
+  },
+  {
+    path: "/level",
+    name: "Level",
+    component: Level,
   },
 
 ];

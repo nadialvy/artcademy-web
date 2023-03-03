@@ -1,3 +1,89 @@
 {
-
+  "data": [
+    {
+      "id": 1,
+      "product_name": "Teko Keramik Antik",
+      "product_price": "Rp120.000",
+      "product_description": "Sebuah Teko keramik antik yang khas dari Jepara dengan batu alam alami yang menawan di mata. Teko ini memiliki keunikan tersendiri karena dihiasi dengan motif khas Jepara yang sangat indah dan menarik. Dengan bahan keramik yang berkualitas tinggi, teko ini sangat kokoh dan tahan lama. Dapat digunakan untuk keperluan sehari-hari ataupun sebagai dekorasi di rumah Anda.",      "product_stock": 10,
+      "product_image": "fav-1.svg",
+      "product_review": [
+        {
+          "name": "John",
+          "review": "Beh uenak tenan ki, apik barange tur murah regane"
+        },
+        {
+          "name": "Smith",
+          "review": "Bagus, kualitas terpercaya"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "product_name": "Guci Khas Solo",
+      "product_price": "Rp200.000",
+      "product_description": "Guci gaya ukiran solo asli, dengan nuansa bunga alami",
+      "product_stock": 8,
+      "product_image": "fav-2.svg",
+      "product_review": [
+        {
+          "name": "Karen",
+          "review": "Bagus banget buat hiasan rumah"
+        },
+        {
+          "name": "Joko",
+          "review": "Ukirannya sangat khas!!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "product_name": "Piring Ukir",
+      "product_price": "Rp80.000",
+      "product_description": "Paket Piring Ukir dari Madura. Terbuat dari barang kaca, dan material pilihan",
+      "product_stock": 7,
+      "product_image": "fav-3.svg",
+      "product_review": [
+        {
+          "name": "Sri",
+          "review": "Bagus untuk hiasan dan bingkisan juga"
+        },
+        {
+          "name": "Noer",
+          "review": "Kemarin aku buat bawaan nikah, dilihat semua orang, emang bagus banget deh, pilihann!!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "product_name": "Kursi Kayu Full Plitur",
+      "product_price": "Rp1.000.000",
+      "product_description": "Kursi kayu plitur karya ukir jepara. Kokoh, Kuat dan tahan lapuk",
+      "product_stock": 2,
+      "product_image": "",
+      "product_review": [
+        {
+          "name": "Rendra",
+          "review": "Kualitas bener bener bagus gilakk"
+        },
+        {
+          "name": "Ojan1211",
+          "review": "emang ngga bisa dibohongin kualitas jepara nih"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "product_name": "Lukisan Nyi Roro Kidul",
+      "product_price": "Rp690.000",
+      "product_description": "Lukisan karya Andrean dengan bentuk 3D",
+      "product_stock": 1,
+      "product_image": "",
+      "product_review": [
+        {
+          "name": "RiniSidoarjo12",
+          "review": "ada di toko langsung aku co kemarin, emang bagus banget si"
+        }
+      ]
+    }
+  ]
 }

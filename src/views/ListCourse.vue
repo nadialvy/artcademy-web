@@ -8,7 +8,7 @@ import CourseCard from "../components/CourseCard.vue";
   <div class="bg-dashboard md:bg-none">
     <div class="flex justify-between items-center">
       <p @click="goBack()" class="text-white font-bold text-2xl pl-2">←</p>
-      <p class="text-white font-bold mr-10 text-lg">Pelajaran</p>
+      <p class="text-white font-bold mr-10">Pelajaran</p>
       <div></div>
     </div>
   </div>

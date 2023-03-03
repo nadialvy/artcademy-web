@@ -14,10 +14,13 @@ import Search from "../components/Search.vue"
         <p class="text-xs font-bold text-white">Selamat datang,</p>
         <p class="font-bold text-white text-xl -mt-1">Anapati</p>
       </div>
-      <div class="flex justify-around items-center">
-        <img src="../assets/level.svg" alt="" />
-        <img src="../assets/bell.svg" alt="" />
-      </div>
+      
+      <router-link to="/level">
+        <div class="flex justify-around items-center">
+          <img src="../assets/level.svg" alt="" />
+          <img src="../assets/bell.svg" alt="" />
+        </div>
+      </router-link>
     </div>
   </div>
 

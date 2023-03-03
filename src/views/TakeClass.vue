@@ -1,10 +1,10 @@
 <template>
   <div
-    class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 1.5rem;"
+    class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 1.2rem;"
   >
     <div class="flex justify-between items-center">
       <p @click="goBack()" class="text-white font-bold text-2xl pl-2">←</p>
-      <p class="text-white font-bold mr-10 text-lg">Ambil Kelas</p>
+      <p class="text-white font-bold mr-10">Ambil Kelas</p>
       <div></div>
     </div>
   </div>
@@ -64,7 +64,6 @@
     </div>
   </div>
 </template>
-
 
 <script>
 export default {
