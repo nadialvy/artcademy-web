@@ -24,14 +24,14 @@ import Carousel from "../components/Carousel.vue";
         <div
           class="mt-16 md:mt-0 text-sm flex flex-row md:flex-col md:gap-y-4 justify-between items-center font-semibold px-4 md:px-20"
         >
-          <router-link to="/dashboard" class="text-blue-500 py-2 hover:text-white md:border md:border-blue-500 md:w-full md:rounded-lg md:hover:bg-blue-500 text-center">
+          <router-link to="/login" class="text-blue-400 py-2 hover:text-white md:border md:border-blue-400 md:w-full md:rounded-lg md:hover:bg-blue-400 text-center">
             <button
               class=""
             >
               Masuk
             </button>
           </router-link>
-          <router-link to="/dashboard" class="bg-blue-500 px-6 py-2 text-white rounded-lg hover:bg-blue-600 md:w-full text-center">
+          <router-link to="/login" class="bg-blue-400 px-6 py-2 text-white rounded-lg hover:bg-blue-600 md:w-full text-center">
             <button
               class=""
             >

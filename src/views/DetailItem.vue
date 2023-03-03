@@ -12,7 +12,7 @@
       <img src="../../public/most-buyed-1.svg" alt="">
       <div class="">
         <p class="font-semibold text-sm">Teko Keramik Antik Biru Putih</p>
-        <p class="font-bold mt-1 text-blue-500">Rp120.000</p>
+        <p class="font-bold mt-1 text-blue-400">Rp120.000</p>
         <div class="flex gap-x-2 justify-start items-center mt-4">
           <img src="../assets/shop.svg" alt="">
           <p class="text-sm">Sejarah Toko</p>
@@ -38,7 +38,7 @@
       <p class="text-sm mt-2">Sebuah teko keramik antik khas jawa tengah berwarna biru putih dengan motif bunga mawar di tengah dan terdapat tambahan 2 gelas kecil</p>
     </div>
   </div>
-<button class="bg-blue-500 z-10 text-white text-center w-full rounded-md p-4 text-sm font-semibold fixed-bottom">Masukkan Keranjang</button>
+<button class="bg-blue-400 z-10 text-white text-center w-full rounded-md p-4 text-sm font-semibold fixed-bottom">Masukkan Keranjang</button>
 
 </template>
 

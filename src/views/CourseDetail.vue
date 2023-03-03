@@ -48,7 +48,7 @@ import DetailCourseCard from "../components/DetailCourseCard.vue";
 
   <router-link to="/takeclass">
     <button
-      class="bg-blue-500 z-10 fixed-bottom p-4 rounded-md w-full shadow-lg text-white font-semibold"
+      class="bg-blue-400 z-10 fixed-bottom p-4 rounded-md w-full shadow-lg text-white font-semibold"
     >
       Ambil Kelas
     </button>

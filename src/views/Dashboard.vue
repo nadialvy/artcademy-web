@@ -4,23 +4,23 @@ import Bottombar from "../components/Bottombar.vue";
 import ContinueWatch from "../components/ContinueWatch.vue";
 import CourseCategory from "../components/CourseCategory.vue";
 import CurrentCourse from "../components/CurrentCourse.vue";
-import Search from "../components/Search.vue"
+import Search from "../components/Search.vue";
 </script>
 <template>
   <Navbar />
-  <div class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 1.5rem;">
+  <div class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 1.5rem">
     <div class="flex justify-between items-start">
       <div>
         <p class="text-xs font-bold text-white">Selamat datang,</p>
         <p class="font-bold text-white text-xl -mt-1">Anapati</p>
       </div>
-      
-      <router-link to="/level">
-        <div class="flex justify-around items-center">
+
+      <div class="flex justify-around items-center">
+        <router-link to="/level">
           <img src="../assets/level.svg" alt="" />
-          <img src="../assets/bell.svg" alt="" />
-        </div>
-      </router-link>
+        </router-link>
+        <img src="../assets/bell.svg" alt="" />
+      </div>
     </div>
   </div>
 
@@ -29,10 +29,10 @@ import Search from "../components/Search.vue"
     <Search text="Mau cari kelas? Cari disini..." />
 
     <!-- current course -->
-   <CurrentCourse />
+    <CurrentCourse />
 
     <!-- category course -->
-   <CourseCategory />
+    <CourseCategory />
 
     <!-- continue watch -->
     <ContinueWatch />

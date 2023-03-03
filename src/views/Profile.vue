@@ -50,7 +50,7 @@ import Bottombar from "../components/Bottombar.vue";
         <p class="font-bold text-lg">Dompet</p>
         <p class="text-gray-400 text-sm mt-2">Saldo anda</p>
         <p class="text-sm font-semibold">Rp164.500</p>
-        <button class="mt-4 border border-blue-500 w-full text-blue-500 font-semibold rounded-full text-sm py-2 hover:text-white hover:bg-blue-500">+ Hubungkan e-wallet</button>
+        <button class="mt-4 border border-blue-400 w-full text-blue-400 font-semibold rounded-full text-sm py-2 hover:text-white hover:bg-blue-400">+ Hubungkan e-wallet</button>
       </div>
     </div>
   </div>

@@ -10,7 +10,7 @@
           </p>
         </div>
         <button
-          class="bg-blue-500 hover:bg-blue-600 text-xs text-white px-4 py-1 mt-2 rounded-xl"
+          class="bg-blue-400 hover:bg-blue-600 text-xs text-white px-4 py-1 mt-2 rounded-xl"
         >
           Lanjutkan Kursus
         </button>
