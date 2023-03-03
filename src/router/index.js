@@ -8,6 +8,7 @@ import Ecommerce from "../views/Ecommerce.vue";
 import ListCourse from "../views/ListCourse.vue";
 import CourseDetail from "../views/CourseDetail.vue";
 import Login from "../views/Login.vue";
+import TakeClass from "../views/TakeClass.vue";
 
 const routes = [
   {
@@ -51,10 +52,14 @@ const routes = [
     name: "CourseDetail",
     component: CourseDetail,
     props: true,
-  }
+  },
+  {
+    path: "/takeclass",
+    name: "TakeClass",
+    component: TakeClass,
+  },
 
 ];
-
 const router = createRouter({
   history: createWebHistory(),
   routes,

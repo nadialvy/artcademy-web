@@ -46,11 +46,13 @@ import DetailCourseCard from "../components/DetailCourseCard.vue";
     <div class="mb-14"></div>
   </div>
 
-  <button
-    class="bg-blue-500 z-10 fixed-bottom bottom-4 right-2 left-2 p-2 rounded-md w-full shadow-lg text-white font-semibold"
-  >
-    Ambil Kelas
-  </button>
+  <router-link to="/takeclass">
+    <button
+      class="bg-blue-500 z-10 fixed-bottom bottom-4 right-2 left-2 p-2 rounded-md w-full shadow-lg text-white font-semibold"
+    >
+      Ambil Kelas
+    </button>
+  </router-link>
 </template>
 
 <style>
