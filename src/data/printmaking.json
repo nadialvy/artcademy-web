@@ -1,0 +1,209 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "course_name": "Pengenalan Seni Cetak",
+      "course_image": "",
+      "course_rating": 4.2,
+      "course_description": "Kelas ini akan memperkenalkan Anda pada teknik-teknik cetak yang berbeda, seperti linocut, woodcut, dan etching. Anda akan belajar tentang alat dan bahan yang digunakan dalam seni cetak dan bagaimana membuat cetakan yang unik dan menarik.",
+      "organization": "Studio Seni",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Seni Cetak",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Teknik Linocut",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Teknik Woodcut",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Teknik Etching",
+          "lesson_thumbnail": "",
+          "lesson_time": 75,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Mencetak Cetakan",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "course_name": "Cetak Sablon pada Kaos",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kelas ini akan membantu Anda mempelajari cara mencetak sablon pada kaos. Anda akan belajar tentang bahan dan alat yang dibutuhkan, teknik cetak sablon, dan cara membuat desain yang menarik pada kaos.",
+      "organization": "Kaos Printing",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Cetak Sablon",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Persiapan Kaos dan Gambar",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Teknik Cetak Sablon",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Menyelesaikan Proses Cetak Sablon",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Teknik Mencuci dan Merawat Kaos",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "course_name": "Kursus Printmaking untuk Pemula",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kursus Printmaking ini dirancang untuk pemula yang ingin mempelajari seni cetak. Anda akan belajar berbagai teknik dasar dalam seni cetak dan membuat karya seni cetak yang menarik.",
+      "organization": "Artzmedia",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Seni Cetak",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Menggunakan Teknik Relief",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Menggunakan Teknik Intaglio",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Menggunakan Teknik Serigrafi",
+          "lesson_thumbnail": "",
+          "lesson_time": 75,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Mencetak Karya Seni Anda",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "course_name": "Kelas Lithography untuk Pemula",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kelas Lithography ini dirancang untuk pemula yang ingin mempelajari teknik cetak lithografi. Anda akan belajar tentang persiapan plate, teknik mencetak, dan membuat karya seni lithografi yang menarik.",
+      "organization": "Artzmedia",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Lithography",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Persiapan Plate Lithography",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Mencetak dengan Teknik Lithography",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Membuat Karya Seni Lithography",
+          "lesson_thumbnail": "",
+          "lesson_time": 75,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Mengembangkan Keterampilan Anda",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "course_name": "Kelas Dasar Printmaking: Relief Printing",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kelas ini akan memperkenalkan teknik relief printing, salah satu teknik cetak yang paling populer di dunia seni rupa. Anda akan mempelajari teknik-teknik dasar, termasuk persiapan, memotong blok cetak, mencetak, dan finishing.",
+      "organization": "Printmaking Studio",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Relief Printing",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Persiapan dan Pemotongan Blok Cetak",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Mencetak dengan Relief Printing",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Finishing dan Perawatan Karya Cetak",
+          "lesson_thumbnail": "",
+          "lesson_time": 75,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Mengembangkan Keterampilan Printmaking Anda",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    }
+  ]
+}

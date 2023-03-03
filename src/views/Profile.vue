@@ -35,7 +35,7 @@ import Bottombar from "../components/Bottombar.vue";
       <p class="font-bold text-lg">Kursus Saya</p>
       <div class="flex justify-between items-start mt-2">
         <div class="flex gap-x-4">
-          <img src="../assets/2d.svg" alt="Kerajinan 2d" class="w-6" />
+          <img src="../assets/kerajinan-tangan-2-dimensi.svg" alt="Kerajinan 2d" class="w-6" />
           <p class="text-gray-500 text-xs">
             Kerajinan Tangan 2 Dimensi • Kelas Membatik (Jogja Art)
           </p>

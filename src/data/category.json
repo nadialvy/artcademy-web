@@ -1,22 +1,22 @@
 {
   "data": [
     {
-      "img": "2d.svg",
+      "img": "kerajinan-tangan-2-dimensi.svg",
       "title": "Kerajinan Tangan 2D",
       "path": "kerajinan-tangan-2-dimensi"
     },
     {
-      "img": "photography.svg",
+      "img": "fotografi.svg",
       "title": "Fotografi",
       "path": "fotografi"
     },
     {
-      "img": "fashion-design.svg",
+      "img": "desain-busana.svg",
       "title": "Desain Busana",
       "path": "desain-busana"
     },
     {
-      "img": "design-graphic.svg",
+      "img": "desain-grafis.svg",
       "title": "Desain Grafis",
       "path": "desain-grafis"
     },
@@ -26,14 +26,14 @@
       "path": "printmaking"
     },
     {
-      "img": "3d.svg",
+      "img": "kerajinan-tangan-3-dimensi.svg",
       "title": "Kerajinan Tangan 3D",
       "path": "kerajinan-tangan-3-dimensi"
     },
     {
-      "img": "music-dance.svg",
+      "img": "musiktari.svg",
       "title": "Musik & Tari",
-      "path": "musik-tari"
+      "path": "musiktari"
     }
   ]
 }

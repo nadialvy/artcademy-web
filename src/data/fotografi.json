@@ -1,169 +1,207 @@
 {
-  "id": 1,
-  "course_name": "Kelas Fotografi (Pemula)",
-  "course_image": "",
-  "course_rating": 4.8,
-  "course_description": "Kelas seni fotografi untuk pemula yang tertarik belajar teknik dasar dalam fotografi",
-  "organization": "Fotografi Academy Surabaya",
-  "is_course_saved": false,
-  "course_detail": [
+  "data": [
     {
-      "lesson_title": "01 - Kelas Fotogradi",
-      "lesson_thumbnail": "",
-      "lesson_time": 25,
-      "lesson_chapter": [
+      "id": 1,
+      "course_name": "Kelas Fotografi (Pemula)",
+      "course_image": "",
+      "course_rating": 4.8,
+      "course_description": "Kelas seni fotografi untuk pemula yang tertarik belajar teknik dasar dalam fotografi",
+      "organization": "Fotografi Academy Surabaya",
+      "is_course_saved": false,
+      "course_detail": [
         {
-          "chapter_number": 1,
-          "chapter_name": "Apa itu Fotografi",
-          "chapter_time": "00:10"
+          "lesson_title": "01 - Kelas Fotografi",
+          "lesson_thumbnail": "",
+          "lesson_time": 25,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 2,
-          "chapter_name": "Apa itu ISO? dan Cara Memahami ISO",
-          "chapter_time": "00:25"
+          "lesson_title": "02 - Cara Memegang DSLR yang Benar",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 3,
-          "chapter_name": "Apa itu Aperture? dan Cara Memahami Aparture",
-          "chapter_time": "00:37"
+          "lesson_title": "03 - Memahami Local Length",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 4,
-          "chapter_name": "Apa itu Shutter Speed? dan Cara Kerja Shutter Speed",
-          "chapter_time": "00:48"
+          "lesson_title": "04 - Belajar Rasio",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 5,
-          "chapter_name": "Memahami Exposure dan Cara Mengatur Exposure",
-          "chapter_time": "01:02"
+          "lesson_title": "05 - Luar Kelas",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         }
       ]
     },
     {
-      "lesson_title": "02 - Cara Memegang DSLR yang Benar",
-      "lesson_thumbnail": "",
-      "lesson_time": 45,
-      "lesson_chapter": [
+      "id": 2,
+      "course_name": "Kelas Fotografi (Menengah)",
+      "course_image": "",
+      "course_rating": 4.8,
+      "course_description": "Kelas seni fotografi untuk kelas menengah yang tertarik belajar teknik intermediet dalam fotografi",
+      "organization": "Fotografi Academy Surabaya",
+      "is_course_saved": false,
+      "course_detail": [
         {
-          "chapter_number": 1,
-          "chapter_name": "Postur Tubuh yang Benar saat Motret",
-          "chapter_time": "0:45"
+          "lesson_title": "01 - Fotografi Landscape",
+          "lesson_thumbnail": "",
+          "lesson_time": 25,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 2,
-          "chapter_name": "Penjelasan tentang tombol Pada DSLR",
-          "chapter_time": "0:30"
+          "lesson_title": "02 - Fotografi Sreet",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 3,
-          "chapter_name": "Apa itu White Balance dan Cara Memahami White Balance",
-          "chapter_time": "0:45"
+          "lesson_title": "03 - Fotografi Potrait",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 4,
-          "chapter_name": "Perbedaan Motret Pakai RAW vs JPEG",
-          "chapter_time": "1:00"
+          "lesson_title": "04 - Belajar Food",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 5,
-          "chapter_name": "Memahami Mode Metering pada DSLR/Mirrrorless",
-          "chapter_time": "1:15"
+          "lesson_title": "05 - Fotografi Alam",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         }
       ]
     },
     {
-      "lesson_title": "03 - Memahami Local Length",
-      "lesson_thumbnail": "",
-      "lesson_time": 60,
-      "lesson_chapter": [
+      "id": 3,
+      "course_name": "Kelas Fotografi (Ahli)",
+      "course_image": "",
+      "course_rating": 4.8,
+      "course_description": "Kelas seni fotografi untuk pemula yang tertarik belajar teknik dasar dalam fotografi",
+      "organization": "Fotografi Academy Surabaya",
+      "is_course_saved": false,
+      "course_detail": [
         {
-          "chapter_number": 1,
-          "chapter_name": "Belajar Foto Menggunakan Komposisi Rule Of Thrid",
-          "chapter_time": "0:05"
+          "lesson_title": "01 - Teknik-teknik cahaya yang lebih kompleks                            ",
+          "lesson_thumbnail": "",
+          "lesson_time": 25,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 2,
-          "chapter_name": "Penggunaan garis foto",
-          "chapter_time": "1:30"
+          "lesson_title": "02 - Komposisi foto yang lebih efektif",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 3,
-          "chapter_name": "Penempatan Objek Manusia pada garis Foto",
-          "chapter_time": "3:45"
+          "lesson_title": "03 - Mengambil foto dalam situasi yang berbeda-beda seperti low-light, portrait, landscape, dan banyak lagi",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 4,
-          "chapter_name": "Pemotretan Alam dengan garis foto",
-          "chapter_time": "4:00"
+          "lesson_title": "04 - Pengenalan tentang teknik editing foto untuk meningkatkan kualitas foto",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 5,
-          "chapter_name": "Berlatih Memfoto Objek Manusia ataupun Alam",
-          "chapter_time": "5:30"
+          "lesson_title": "05 - Membuat portfolio fotografi yang menarik",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         }
       ]
     },
     {
-      "lesson_title": "04 - Belajar Rasio",
-      "lesson_thumbnail": "",
-      "lesson_time": 60,
-      "lesson_chapter": [
+      "id": 4,
+      "course_name": "Peluang Kerja di Bidang Fotografi",
+      "course_image": "",
+      "course_rating": 4.8,
+      "course_description": "Fotografi merupakan bidang yang menawarkan berbagai peluang karir yang menarik dan berkembang pesat di era digital saat ini. Seiring dengan perkembangan teknologi dan internet, permintaan untuk jasa fotografi semakin meningkat, baik itu untuk kebutuhan bisnis, pribadi, maupun kegiatan sosial dan budaya.",
+      "organization": "Fotografi Academy Surabaya",
+      "is_course_saved": false,
+      "course_detail": [
         {
-          "chapter_number": 1,
-          "chapter_name": "Golden Ratio",
-          "chapter_time": "0:45"
+          "lesson_title": "01 - Fotografer Freelance atau Mandiri                           ",
+          "lesson_thumbnail": "",
+          "lesson_time": 25,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 2,
-          "chapter_name": "Belajar Pemfokusan Kamera",
-          "chapter_time": "1:15"
+          "lesson_title": "02 - Fotografer Editorial",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 3,
-          "chapter_name": "Memahami Viewfinder",
-          "chapter_time": "1:30"
+          "lesson_title": "03 - Fotografer Pernikahan dan Acara",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 4,
-          "chapter_name": "Fakta Unik tentang Fotografi",
-          "chapter_time": "2:00"
+          "lesson_title": "04 - Fotografer Produk untuk Kebutuhan Bisnis dan E-commerce",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 5,
-          "chapter_name": "Peluang Positif Menjadi Fotografi",
-          "chapter_time": "1:45"
+          "lesson_title": "05 - fotografer Arsitektur",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         }
       ]
     },
     {
-      "lesson_title": "05 - Luar Kelas",
-      "lesson_thumbnail": "",
-      "lesson_time": 60,
-      "lesson_chapter": [
+      "id": 5,
+      "course_name": "Tips & Trick dalam Dunia Fotografi",
+      "course_image": "",
+      "course_rating": 4.8,
+      "course_description": "Untuk menghasilkan foto yang baik dan berkualitas, diperlukan keterampilan dan pengetahuan tentang teknik, peralatan, serta pemahaman tentang komposisi, pencahayaan, dan pengeditan.",
+      "organization": "Fotografi Academy Surabaya",
+      "is_course_saved": false,
+      "course_detail": [
         {
-          "chapter_number": 1,
-          "chapter_name": "Memahami Fungsi Histogram",
-          "chapter_time": "0:45"
+          "lesson_title": "01 - Gunakan teknik Rule of Thirds",
+          "lesson_thumbnail": "",
+          "lesson_time": 25,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 2,
-          "chapter_name": "Mengenal ukuran Sensor Kamera: APSC & Full Frame",
-          "chapter_time": "1:15"
+          "lesson_title": "02 - Perhatikan pencahayaan",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 3,
-          "chapter_name": "Memahami Pentingnya Lensa Kamera",
-          "chapter_time": "1:30"
+          "lesson_title": "03 - Pilih waktu yang tepat",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 4,
-          "chapter_name": "Memahami Panjang Fokal Lensa",
-          "chapter_time": "2:00"
+          "lesson_title": "04 - Jangan takut mencoba sudut pandang yang berbeda",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         },
         {
-          "chapter_number": 5,
-          "chapter_name": "Fakta Keren Fisheye",
-          "chapter_time": "1:45"
+          "lesson_title": "05 - Gunakan mode manual",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
         }
       ]
     }

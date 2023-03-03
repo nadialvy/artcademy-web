@@ -69,7 +69,7 @@ export default {
   data() {
     return {
       course_details: [],
-      course_image: "/course_img/fashion-design/",
+      course_image: "/course_img/desain-busana/",
     };
   },
   created() {

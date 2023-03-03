@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "course_name": "Kelas Menggambar (Pemula)",
+      "course_image": "",
+      "course_rating": 4.8,
+      "course_description": "Keahlian menggambar banyak dibutuhkan, membuat kelas menggambar menjadi satu kelas yang penting dalam bidang seni menggambar",
+      "organization": "Seni Organzation Malang",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "Pengenalan tentang menggambar",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": [
+            {
+              "chapter_number": 1,
+              "chapter_name": "Kelas Dasar Menggambar",
+              "chapter_time": "00:10"
+            },
+            {
+              "chapter_number": 2,
+              "chapter_name": "Perspektif dan Proporsi",
+              "chapter_time": "00:15"
+            },
+            {
+              "chapter_number": 3,
+              "chapter_name": "Teori Warna dan Percampuran Warna",
+              "chapter_time": "00:20"
+            },
+            {
+              "chapter_number": 4,
+              "chapter_name": "Menggambar dari Observasi",
+              "chapter_time": "00:25"
+            },
+            {
+              "chapter_number": 5,
+              "chapter_name": "Pengenalan Komposisi",
+              "chapter_time": "00:30"
+            }
+          ]
+        },
+        {
+          "lesson_title": "02 - Pengenalan Alat Menggambar",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Teknik Menggambar Alam",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Teknik Menggambar Wajah",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Project Akhir",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "course_name": "Kelas Membatik (Pemula)",
+      "course_image": "",
+      "course_rating": 4.3,
+      "course_description": "Belajar membatik online dapat menjadi cara yang menyenangkan untuk mengeksplorasi kreativitas Anda di waktu luang. Dalam kelas ini, Anda akan mempelajari teknik dasar membatik dan beberapa tips yang akan membantu Anda membuat karya batik yang indah dan unik.",
+      "organization": "Batikita Malang",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Membatik",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Persiapan",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Teknik Dasar Membatik",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Tips dan Trik",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Project Akhir",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "course_name": "Kelas Lukis (Pemula)",
+      "course_image": "",
+      "course_rating": 4.8,
+      "course_description": "Kelas ini ditujukan bagi siapa saja yang ingin belajar cara melukis dengan teknik yang benar dan tepat. Anda akan belajar dasar-dasar lukisan, termasuk penggunaan peralatan lukis, campuran warna, teknik penggaris, shading, dan menggambar perspektif.",
+      "organization": "Lukis Profesional Malang",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Alat Melukis",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Perspektif Dasar",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Teknik Menggambar Objek Alam",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Teknik Menggambar Wajah",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Menggambar Lanskap",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "course_name": "Kelas Lukis (Menengah)",
+      "course_image": "",
+      "course_rating": 5.0,
+      "course_description": "Kelas ini ditujukan bagi siapa saja yang ingin belajar cara melukis dengan teknik yang benar dan tepat. Anda akan belajar dasar-dasar lukisan, termasuk penggunaan peralatan lukis, campuran warna, teknik penggaris, shading, dan menggambar perspektif.",
+      "organization": "Batikita Malang",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Menguasai Pensil dan Kuas",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Mencampur Warna dengan Teknik yang Benar",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Menjelajahi Komposisi dalam Lukisan",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Perspektif Lanjutan dalam Melukis",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Teknik Melukis Potret dengan Detail yang Lebih Tinggi",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "course_name": "Kelas Membatik (Menengah)",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kelas ini ditujukan bagi siapa saja yang ingin belajar cara melukis dengan teknik yang benar dan tepat. Anda akan belajar dasar-dasar lukisan, termasuk penggunaan peralatan lukis, campuran warna, teknik penggaris, shading, dan menggambar perspektif.",
+      "organization": "Batikita Malang",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Teknik Memakai Canting untuk Membatik Motif Sederhana",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Teknik Memakai Cap untuk Membatik Motif Tumpal",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Teknik Memakai Cap untuk Membatik Motif Kawung",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Pengenalan Warna dalam Membatik dan Pemilihan Warna yang Cocok",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Membatik Motif Klasik dengan Teknik Campur Warna",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        }
+      ]
+    }
+  ]
+}

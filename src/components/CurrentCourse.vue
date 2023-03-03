@@ -4,7 +4,7 @@
       <div>
         <h1 class="font-bold text-lg">Kursus Anda</h1>
         <div class="flex items-start justify-start mt-2 gap-x-2">
-          <img src="../assets/2d.svg" alt="" class="w-5" />
+          <img src="../assets/kerajinan-tangan-2-dimensi.svg" alt="" class="w-5" />
           <p class="text-xs text-gray-400">
             Kerajinan Tangan 2 Dimensi • Kelas Membatik (Jogja Art)
           </p>

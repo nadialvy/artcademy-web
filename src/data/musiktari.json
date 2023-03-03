@@ -1,0 +1,209 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "course_name": "Belajar Dasar-Dasar Piano",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kursus ini ditujukan bagi pemula yang ingin belajar memainkan piano. Dalam kursus ini, Anda akan mempelajari teori musik dasar, teknik memainkan piano, dan berbagai lagu populer.",
+      "organization": "Music Academy",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Teori Musik Dasar",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Teknik Memainkan Piano",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Lagu Populer untuk Pemula",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Mengembangkan Keterampilan Bermain Piano",
+          "lesson_thumbnail": "",
+          "lesson_time": 75,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Solo Piano Performance",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "course_name": "Kelas Tari Modern untuk Pemula",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kelas ini ditujukan untuk pemula yang ingin mempelajari tari modern. Dalam kelas ini, Anda akan mempelajari teknik-teknik tari modern dan berbagai gerakan dasar.",
+      "organization": "Dance Academy",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Tari Modern",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Teknik Dasar Tari Modern",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Kombinasi Gerakan Tari Modern",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Koreografi Tari Modern",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Tari Modern untuk Panggung",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "course_name": "Ballet 101: Pengenalan Tari Balet",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kursus ini memberikan pengenalan lengkap tentang tari balet, termasuk sejarah, teknik dasar, dan gerakan-gerakan utama. Dalam kursus ini, Anda akan belajar tentang posisi kaki, gerakan lengan, dan pergerakan tubuh yang diperlukan dalam tari balet.",
+      "organization": "Royal Ballet Academy",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Sejarah Tari Balet",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Posisi Kaki Dasar",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Gerakan Lengan",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Pergerakan Tubuh",
+          "lesson_thumbnail": "",
+          "lesson_time": 75,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Tari Balet Klasik",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "course_name": "Kelas Gitar untuk Pemula",
+      "course_image": "",
+      "course_rating": 4.5,
+      "course_description": "Kelas ini dirancang untuk pemula yang ingin belajar bermain gitar. Dalam kelas ini, Anda akan belajar tentang posisi jari, teknik dasar memetik, dan akor-akor dasar yang digunakan dalam bermain gitar.",
+      "organization": "Guitar School",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Posisi Jari",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Memetik Senar",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Belajar Akor Dasar",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Menambahkan Teknik",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Bermain Lagu Sederhana",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "course_name": "Kelas Dasar Pianika",
+      "course_image": "",
+      "course_rating": 4.2,
+      "course_description": "Kelas ini memberikan pengenalan lengkap tentang pianika, alat musik yang simpel dan cocok untuk pemula. Dalam kursus ini, Anda akan belajar teknik dasar dalam bermain pianika dan bagaimana memainkan beberapa lagu sederhana.",
+      "organization": "Musikapa",
+      "is_course_saved": false,
+      "course_detail": [
+        {
+          "lesson_title": "01 - Pengenalan Pianika",
+          "lesson_thumbnail": "",
+          "lesson_time": 30,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "02 - Teknik Dasar Bermain Pianika",
+          "lesson_thumbnail": "",
+          "lesson_time": 45,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "03 - Memainkan Lagu Sederhana",
+          "lesson_thumbnail": "",
+          "lesson_time": 60,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "04 - Memperbaiki Teknik Bermain Pianika",
+          "lesson_thumbnail": "",
+          "lesson_time": 75,
+          "lesson_chapter": []
+        },
+        {
+          "lesson_title": "05 - Bermain Pianika dengan Kreatif",
+          "lesson_thumbnail": "",
+          "lesson_time": 90,
+          "lesson_chapter": []
+        }
+      ]
+    }
+  ]
+}

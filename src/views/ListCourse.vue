@@ -21,6 +21,7 @@ import CourseCard from "../components/CourseCard.vue";
         <CourseCard
           :course_name="course.course_name"
           :organization="course.organization"
+          :course_category=$route.params.course_category
         />
       </router-link>
     </template>
