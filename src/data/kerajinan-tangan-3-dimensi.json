@@ -3,7 +3,7 @@
     {
       "id": 1,
       "course_name": "Kelas Pembuatan Vas dengan Tanah Liat (Pemula)",
-      "course_image": "",
+      "course_image": "3D-1.png",
       "course_rating": 4.8,
       "course_description": "Kelas membuat vas bunga 3 dimensi akan mengajarkan cara membuat vas bunga dengan menggunakan teknik kerajinan tangan yang mudah dipahami dan dapat dilakukan oleh siapa saja. Selama kelas, siswa akan diajarkan cara membuat pola, memotong, menempel, dan merangkai bahan menjadi vas bunga yang cantik dan fungsional.",
       "organization": "Seni Organzation Malang",
@@ -13,33 +13,7 @@
           "lesson_title": "01 - Langkah Pembentukan Vas",
           "lesson_thumbnail": "",
           "lesson_time": 30,
-          "lesson_chapter": [
-            {
-              "chapter_number": 1,
-              "chapter_name": "Pemilihan Tanah Liat",
-              "chapter_time": "00:10"
-            },
-            {
-              "chapter_number": 2,
-              "chapter_name": "Persiapan Alat dan Bahan",
-              "chapter_time": "00:15"
-            },
-            {
-              "chapter_number": 3,
-              "chapter_name": "Teknik Tangan dalam Pembentukan Tanah Liat",
-              "chapter_time": "00:20"
-            },
-            {
-              "chapter_number": 4,
-              "chapter_name": "Cara Pemberian Air pada Tanah Liat",
-              "chapter_time": "00:25"
-            },
-            {
-              "chapter_number": 5,
-              "chapter_name": "Teknik Memutar Sambil Membentuk Tanah Liat",
-              "chapter_time": "00:30"
-            }
-          ]
+          "lesson_chapter": []
         },
         {
           "lesson_title": "02 - Pengeringan Tanah Liat",
@@ -70,7 +44,7 @@
     {
       "id": 2,
       "course_name": "Kelas Membuat Topeng (Pemula)",
-      "course_image": "",
+      "course_image": "3D-2.png",
       "course_rating": 4.3,
       "course_description": "Kelas membuat topeng adalah kelas kerajinan tiga dimensi yang bertujuan untuk mengajarkan teknik pembuatan topeng secara lengkap. Kelas ini cocok untuk semua level, baik pemula maupun yang sudah berpengalaman dalam kerajinan tangan. Dalam kelas ini, peserta akan mempelajari berbagai teknik pembentukan topeng mulai dari bahan dasar hingga proses penyelesaian dan finishing.",
       "organization": "Batikita Malang",
@@ -111,7 +85,7 @@
     {
       "id": 3,
       "course_name": "Kelas Pembuatan Miniatur Kayu(Pemula)",
-      "course_image": "",
+      "course_image": "3D-3.png",
       "course_rating": 4.8,
       "course_description": "Kelas ini ditujukan bagi siapa saja yang ingin belajar cara melukis dengan teknik yang benar dan tepat. Anda akan belajar dasar-dasar lukisan, termasuk penggunaan peralatan lukis, campuran warna, teknik penggaris, shading, dan menggambar perspektif.",
       "organization": "Lukis Profesional Malang",
@@ -152,7 +126,7 @@
     {
       "id": 4,
       "course_name": "Kelas Pembuatan Diorama (Menengah)",
-      "course_image": "",
+      "course_image": "3D-4.png",
       "course_rating": 5.0,
       "course_description": "Kelas pembuatan diorama adalah kelas kerajinan tiga dimensi yang berfokus pada pembuatan miniatur dunia dengan memanfaatkan bahan-bahan seperti kardus, kayu, kain, atau plastisin. Diorama biasanya menampilkan adegan kehidupan nyata atau fiksi, seperti pemandangan alam, bangunan, tempat wisata, dan sebagainya.",
       "organization": "Batikita Malang",
@@ -193,7 +167,7 @@
     {
       "id": 5,
       "course_name": "Kelas Membuat Boneka (Menengah)",
-      "course_image": "",
+      "course_image": "3D-5.png",
       "course_rating": 4.5,
       "course_description": "Kelas membuat boneka merupakan kelas kerajinan tangan yang mempelajari teknik dan cara membuat boneka dari berbagai bahan seperti kain flanel, rajutan, dan benang wol. Dalam kelas ini, peserta akan diajarkan tentang dasar-dasar pembuatan boneka, mulai dari merancang desain boneka, memilih bahan, hingga teknik menjahit dan mengisi isian boneka.",
       "organization": "Yoboneka Malang",

@@ -5,7 +5,7 @@ import DetailCourseCard from "../components/DetailCourseCard.vue";
 <template>
   <div
     class="bg-header-course"
-    :style="{ 'background-image': `url(${course_image})` }"
+    :style="{ 'background-image': `url(/public/detail_course_img/${course_details[0].course_image})` }"
   >
     <div class="flex justify-between items-center">
       <p @click="goBack()" class="text-white font-bold text-2xl pl-2">←</p>
@@ -14,7 +14,7 @@ import DetailCourseCard from "../components/DetailCourseCard.vue";
     </div>
   </div>
   <div class="p-4">
-    <h1 class="font-bold text-lg">{{ course_details[0].course_name }} {{}}</h1>
+    <h1 class="font-bold text-lg">{{ course_details[0].course_name }}</h1>
     <div class="flex items-center gap-x-4 mt-2">
       <img src="../assets/user-profile.svg" class="w-8 rounded-lg" />
       <p class="text-sm text-gray-700 font-semibold">
@@ -69,7 +69,7 @@ export default {
   data() {
     return {
       course_details: [],
-      course_image: "/course_img/desain-busana/",
+      // course_image: "/course_img/fashion_design/",
     };
   },
   created() {
@@ -81,7 +81,7 @@ export default {
       data.map((course) => {
         if (course.id == this.$route.params.id) {
           this.course_details.push(course);
-          this.course_image += course.course_image;
+          // this.course_image += course.course_image;
         }
       });
     });

@@ -3,7 +3,7 @@
     {
       "id": 1,
       "course_name": "Seni Grafis dengan Adobe Illustrator",
-      "course_image": "",
+      "course_image": "GRAPHIC-1.png",
       "course_rating": 4.5,
       "course_description": "Kursus Seni Grafis dengan Adobe Illustrator ini memberikan pengenalan lengkap tentang aplikasi desain grafis terkemuka. Dalam kursus ini, Anda akan belajar berbagai tools dan teknik dasar dalam Adobe Illustrator untuk membuat karya seni yang menarik.",
       "organization": "Artzmedia",
@@ -44,7 +44,7 @@
     {
       "id": 2,
       "course_name": "Kelas Adobe Photoshop untuk Pemula",
-      "course_image": "",
+      "course_image": "GRAPHIC-2.png",
       "course_rating": 4.5,
       "course_description": "Kelas Adobe Photoshop ini dirancang untuk pemula yang ingin belajar menguasai aplikasi edit foto dan desain grafis Adobe Photoshop. Dalam kelas ini, Anda akan belajar tentang berbagai tools dan teknik dasar dalam Adobe Photoshop.",
       "organization": "Artzmedia",
@@ -85,7 +85,7 @@
     {
       "id": 3,
       "course_name": "Kelas Canva untuk Desain Grafis",
-      "course_image": "",
+      "course_image": "GRAPHIC-3.png",
       "course_rating": 4.7,
       "course_description": "Kelas Canva ini dirancang untuk memperkenalkan Anda pada aplikasi desain grafis online Canva. Dalam kelas ini, Anda akan belajar tentang berbagai tools dan teknik untuk membuat desain grafis yang menarik dan profesional dengan menggunakan Canva.",
       "organization": "Canva Academy",
@@ -126,7 +126,7 @@
     {
       "id": 4,
       "course_name": "Belajar Adobe After Effects untuk Motion Graphics",
-      "course_image": "",
+      "course_image": "GRAPHIC-4.png",
       "course_rating": 4.8,
       "course_description": "Kursus ini akan memperkenalkan Anda ke dunia motion graphics dengan menggunakan Adobe After Effects. Anda akan mempelajari teknik-teknik animasi, efek visual, dan compositing yang akan membantu Anda dalam membuat proyek motion graphics.",
       "organization": "Motion School",
@@ -167,7 +167,7 @@
     {
       "id": 5,
       "course_name": "Kelas Figma untuk Desain UI/UX",
-      "course_image": "",
+      "course_image": "GRAPHIC-5.png",
       "course_rating": 4.6,
       "course_description": "Kursus ini akan memperkenalkan Anda ke alat desain UI/UX populer yaitu Figma. Anda akan belajar tentang desain komponen, layout, interaksi, dan prototyping dalam Figma. Kursus ini cocok bagi Anda yang ingin memulai karir di bidang desain UI/UX atau ingin meningkatkan keterampilan desain Anda.",
       "organization": "Design Academy",

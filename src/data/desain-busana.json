@@ -3,7 +3,7 @@
     {
       "id": 1,
       "course_name": "Kelas Desain Busana (Pemula)",
-      "course_image": "1-1.svg",
+      "course_image": "BUSANA-1.png",
       "course_rating": 4.2,
       "course_description": "Kelas seni desain busana untuk pemula yang ingin belajar teknik dasar dalam mendesain pakaian, mulai dari membuat sketsa hingga konstruksi baju",
       "organization": "Fashion Institute Jakarta",
@@ -38,7 +38,7 @@
     {
       "id": 2,
       "course_name": "Kelas Fashion Illustration",
-      "course_image": "",
+      "course_image": "BUSANA-2.png",
       "course_rating": 4.8,
       "course_description": "Kelas seni desain busana yang membahas tentang teknik menggambar fashion illustration, mulai dari sketsa hingga rendering menggunakan software Adobe Photoshop",
       "organization": "Fashion School Bandung",
@@ -73,7 +73,7 @@
     {
       "id": 3,
       "course_name": "Kelas Desain Aksesoris",
-      "course_image": "",
+      "course_image": "BUSANA-3.png",
       "course_rating": 4.5,
       "course_description": "Kelas seni desain busana yang membahas tentang teknik mendesain aksesoris, mulai dari ideation, pembuatan sketsa, hingga konstruksi aksesoris",
       "organization": "Indonesian Fashion Designers",
@@ -108,7 +108,7 @@
     {
       "id": 4,
       "course_name": "Kelas Dasar Menggambar Busana",
-      "course_image": "",
+      "course_image": "BUSANA-4.png",
       "course_rating": 4.2,
       "course_description": "Kelas dasar untuk belajar menggambar busana, teknik shading dan perspektif sehingga dapat menghasilkan ilustrasi busana yang memukau",
       "organization": "Design Academy",
@@ -143,7 +143,7 @@
     {
       "id": 5,
       "course_name": "Kelas Pemula Desain Busana",
-      "course_image": "",
+      "course_image": "BUSANA-5.png",
       "course_rating": 4.8,
       "course_description": "Kelas pemula yang akan memperkenalkan dasar-dasar desain busana, mulai dari memilih bahan hingga membuat pola",
       "organization": "Fashion School",

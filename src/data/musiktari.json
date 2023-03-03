@@ -3,7 +3,7 @@
     {
       "id": 1,
       "course_name": "Belajar Dasar-Dasar Piano",
-      "course_image": "",
+      "course_image": "MUSIC-1.png",
       "course_rating": 4.5,
       "course_description": "Kursus ini ditujukan bagi pemula yang ingin belajar memainkan piano. Dalam kursus ini, Anda akan mempelajari teori musik dasar, teknik memainkan piano, dan berbagai lagu populer.",
       "organization": "Music Academy",
@@ -44,7 +44,7 @@
     {
       "id": 2,
       "course_name": "Kelas Tari Modern untuk Pemula",
-      "course_image": "",
+      "course_image": "MUSIC-2.png",
       "course_rating": 4.5,
       "course_description": "Kelas ini ditujukan untuk pemula yang ingin mempelajari tari modern. Dalam kelas ini, Anda akan mempelajari teknik-teknik tari modern dan berbagai gerakan dasar.",
       "organization": "Dance Academy",
@@ -85,7 +85,7 @@
     {
       "id": 3,
       "course_name": "Ballet 101: Pengenalan Tari Balet",
-      "course_image": "",
+      "course_image": "MUSIC-3.png",
       "course_rating": 4.5,
       "course_description": "Kursus ini memberikan pengenalan lengkap tentang tari balet, termasuk sejarah, teknik dasar, dan gerakan-gerakan utama. Dalam kursus ini, Anda akan belajar tentang posisi kaki, gerakan lengan, dan pergerakan tubuh yang diperlukan dalam tari balet.",
       "organization": "Royal Ballet Academy",
@@ -126,7 +126,7 @@
     {
       "id": 4,
       "course_name": "Kelas Gitar untuk Pemula",
-      "course_image": "",
+      "course_image": "MUSIC-4.png",
       "course_rating": 4.5,
       "course_description": "Kelas ini dirancang untuk pemula yang ingin belajar bermain gitar. Dalam kelas ini, Anda akan belajar tentang posisi jari, teknik dasar memetik, dan akor-akor dasar yang digunakan dalam bermain gitar.",
       "organization": "Guitar School",
@@ -167,7 +167,7 @@
     {
       "id": 5,
       "course_name": "Kelas Dasar Pianika",
-      "course_image": "",
+      "course_image": "MUSIC-5.png",
       "course_rating": 4.2,
       "course_description": "Kelas ini memberikan pengenalan lengkap tentang pianika, alat musik yang simpel dan cocok untuk pemula. Dalam kursus ini, Anda akan belajar teknik dasar dalam bermain pianika dan bagaimana memainkan beberapa lagu sederhana.",
       "organization": "Musikapa",

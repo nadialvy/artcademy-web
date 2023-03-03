@@ -3,7 +3,7 @@
     {
       "id": 1,
       "course_name": "Kelas Fotografi (Pemula)",
-      "course_image": "",
+      "course_image": "fotografi-1.png",
       "course_rating": 4.8,
       "course_description": "Kelas seni fotografi untuk pemula yang tertarik belajar teknik dasar dalam fotografi",
       "organization": "Fotografi Academy Surabaya",
@@ -44,7 +44,7 @@
     {
       "id": 2,
       "course_name": "Kelas Fotografi (Menengah)",
-      "course_image": "",
+      "course_image": "fotografi-2.png",
       "course_rating": 4.8,
       "course_description": "Kelas seni fotografi untuk kelas menengah yang tertarik belajar teknik intermediet dalam fotografi",
       "organization": "Fotografi Academy Surabaya",
@@ -85,7 +85,7 @@
     {
       "id": 3,
       "course_name": "Kelas Fotografi (Ahli)",
-      "course_image": "",
+      "course_image": "fotografi-3.png",
       "course_rating": 4.8,
       "course_description": "Kelas seni fotografi untuk pemula yang tertarik belajar teknik dasar dalam fotografi",
       "organization": "Fotografi Academy Surabaya",
@@ -126,7 +126,7 @@
     {
       "id": 4,
       "course_name": "Peluang Kerja di Bidang Fotografi",
-      "course_image": "",
+      "course_image": "fotografi-4.png",
       "course_rating": 4.8,
       "course_description": "Fotografi merupakan bidang yang menawarkan berbagai peluang karir yang menarik dan berkembang pesat di era digital saat ini. Seiring dengan perkembangan teknologi dan internet, permintaan untuk jasa fotografi semakin meningkat, baik itu untuk kebutuhan bisnis, pribadi, maupun kegiatan sosial dan budaya.",
       "organization": "Fotografi Academy Surabaya",
@@ -167,7 +167,7 @@
     {
       "id": 5,
       "course_name": "Tips & Trick dalam Dunia Fotografi",
-      "course_image": "",
+      "course_image": "fotografi-5.png",
       "course_rating": 4.8,
       "course_description": "Untuk menghasilkan foto yang baik dan berkualitas, diperlukan keterampilan dan pengetahuan tentang teknik, peralatan, serta pemahaman tentang komposisi, pencahayaan, dan pengeditan.",
       "organization": "Fotografi Academy Surabaya",

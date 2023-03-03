@@ -3,7 +3,7 @@
     {
       "id": 1,
       "course_name": "Kelas Menggambar (Pemula)",
-      "course_image": "",
+      "course_image": "2D-1.jpeg",
       "course_rating": 4.8,
       "course_description": "Keahlian menggambar banyak dibutuhkan, membuat kelas menggambar menjadi satu kelas yang penting dalam bidang seni menggambar",
       "organization": "Seni Organzation Malang",
@@ -70,7 +70,7 @@
     {
       "id": 2,
       "course_name": "Kelas Membatik (Pemula)",
-      "course_image": "",
+      "course_image": "2D-2.jpeg",
       "course_rating": 4.3,
       "course_description": "Belajar membatik online dapat menjadi cara yang menyenangkan untuk mengeksplorasi kreativitas Anda di waktu luang. Dalam kelas ini, Anda akan mempelajari teknik dasar membatik dan beberapa tips yang akan membantu Anda membuat karya batik yang indah dan unik.",
       "organization": "Batikita Malang",
@@ -111,7 +111,7 @@
     {
       "id": 3,
       "course_name": "Kelas Lukis (Pemula)",
-      "course_image": "",
+      "course_image": "2D-3.jpeg",
       "course_rating": 4.8,
       "course_description": "Kelas ini ditujukan bagi siapa saja yang ingin belajar cara melukis dengan teknik yang benar dan tepat. Anda akan belajar dasar-dasar lukisan, termasuk penggunaan peralatan lukis, campuran warna, teknik penggaris, shading, dan menggambar perspektif.",
       "organization": "Lukis Profesional Malang",
@@ -152,7 +152,7 @@
     {
       "id": 4,
       "course_name": "Kelas Lukis (Menengah)",
-      "course_image": "",
+      "course_image": "2D-4.png",
       "course_rating": 5.0,
       "course_description": "Kelas ini ditujukan bagi siapa saja yang ingin belajar cara melukis dengan teknik yang benar dan tepat. Anda akan belajar dasar-dasar lukisan, termasuk penggunaan peralatan lukis, campuran warna, teknik penggaris, shading, dan menggambar perspektif.",
       "organization": "Batikita Malang",
@@ -193,7 +193,7 @@
     {
       "id": 5,
       "course_name": "Kelas Membatik (Menengah)",
-      "course_image": "",
+      "course_image": "2D-5.jpeg",
       "course_rating": 4.5,
       "course_description": "Kelas ini ditujukan bagi siapa saja yang ingin belajar cara melukis dengan teknik yang benar dan tepat. Anda akan belajar dasar-dasar lukisan, termasuk penggunaan peralatan lukis, campuran warna, teknik penggaris, shading, dan menggambar perspektif.",
       "organization": "Batikita Malang",

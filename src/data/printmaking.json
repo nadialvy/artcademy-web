@@ -3,7 +3,7 @@
     {
       "id": 1,
       "course_name": "Pengenalan Seni Cetak",
-      "course_image": "",
+      "course_image": "PRINTMAKING-1.png",
       "course_rating": 4.2,
       "course_description": "Kelas ini akan memperkenalkan Anda pada teknik-teknik cetak yang berbeda, seperti linocut, woodcut, dan etching. Anda akan belajar tentang alat dan bahan yang digunakan dalam seni cetak dan bagaimana membuat cetakan yang unik dan menarik.",
       "organization": "Studio Seni",
@@ -44,7 +44,7 @@
     {
       "id": 2,
       "course_name": "Cetak Sablon pada Kaos",
-      "course_image": "",
+      "course_image": "PRINTMAKING-2.png",
       "course_rating": 4.5,
       "course_description": "Kelas ini akan membantu Anda mempelajari cara mencetak sablon pada kaos. Anda akan belajar tentang bahan dan alat yang dibutuhkan, teknik cetak sablon, dan cara membuat desain yang menarik pada kaos.",
       "organization": "Kaos Printing",
@@ -85,7 +85,7 @@
     {
       "id": 3,
       "course_name": "Kursus Printmaking untuk Pemula",
-      "course_image": "",
+      "course_image": "PRINTMAKING-3.png",
       "course_rating": 4.5,
       "course_description": "Kursus Printmaking ini dirancang untuk pemula yang ingin mempelajari seni cetak. Anda akan belajar berbagai teknik dasar dalam seni cetak dan membuat karya seni cetak yang menarik.",
       "organization": "Artzmedia",
@@ -126,7 +126,7 @@
     {
       "id": 4,
       "course_name": "Kelas Lithography untuk Pemula",
-      "course_image": "",
+      "course_image": "PRINTMAKING-4.png",
       "course_rating": 4.5,
       "course_description": "Kelas Lithography ini dirancang untuk pemula yang ingin mempelajari teknik cetak lithografi. Anda akan belajar tentang persiapan plate, teknik mencetak, dan membuat karya seni lithografi yang menarik.",
       "organization": "Artzmedia",
@@ -167,7 +167,7 @@
     {
       "id": 5,
       "course_name": "Kelas Dasar Printmaking: Relief Printing",
-      "course_image": "",
+      "course_image": "PRINTMAKING-5.png",
       "course_rating": 4.5,
       "course_description": "Kelas ini akan memperkenalkan teknik relief printing, salah satu teknik cetak yang paling populer di dunia seni rupa. Anda akan mempelajari teknik-teknik dasar, termasuk persiapan, memotong blok cetak, mencetak, dan finishing.",
       "organization": "Printmaking Studio",
