@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "product_image": "most-buyed-1.svg",
+      "product_name": "Patung Fu Dog Emas Sepasang",
+      "product_desc": "Dibuat dengan hati dan dengan emas terbaik, cocok dengan ruangan besar anda yang menambah kesan mewah dan megah pada rumah anda",
+      "product_price": "Rp570.000 ",
+      "product_stock": 10,
+      "product_review": [
+        {
+          "name": "Abu",
+          "review": "Barang Bagus bangett"
+        },
+        {
+          "name": "Ika",
+          "review": "guila, apik bett"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "product_image": "most-buyed-2.svg",
+      "product_name": "Teko Keramik Antik Biru Putih",
+      "product_desc": "Barang kerajinan tangan yang unik dan indah, terbuat dari tanah liat berkualitas tinggi yang dibentuk dengan tangan dan dihasilkan melalui proses pembakaran pada suhu tinggi. Setiap produk gerabah kami memiliki keunikan tersendiri dalam bentuk, warna, dan detailnya, sehingga cocok sebagai hiasan rumah, hadiah, atau koleksi pribadi. Kami mengutamakan kualitas dan keaslian produk gerabah kami, sehingga Anda dapat memiliki barang yang awet dan bernilai seni tinggi.",
+      "product_price": "Rp120.000 ",
+      "product_stock": 9,
+      "product_review": [
+        {
+          "name": "Tabir",
+          "review": "Sumpaa bagus, warnanya itu lochhh, keren abiezz"
+        },
+        {
+          "name": "Opa",
+          "review": "sukak banget, rikomendet ges"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "product_image": "most-buyed-3.svg",
+      "product_name": "KANA Astratta - Painting / Lukisan",
+      "product_desc": "Setiap lukisan saya dibuat dengan hati-hati dan teliti, dan menggunakan bahan-bahan berkualitas tinggi sehingga dapat bertahan lama. Produk lukisan saya dapat menjadi pilihan yang tepat untuk mempercantik ruangan, menghiasi dinding rumah, atau sebagai hadiah untuk orang-orang terdekat dan tersayang",
+      "product_price": "Rp2.159.920",
+      "product_stock": 6,
+      "product_review": [
+        {
+          "name": "Sukijar",
+          "review": "Ini parah banget, asli baguss"
+        },
+        {
+          "name": "Izar",
+          "review": "Lukisannya suka sekali, mnyatu dg dinding ruang tamu ak"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "product_image": "most-buyed-4.svg",
+      "product_name": "Lukisan Nyi Roro Kidul High Quality",
+      "product_desc": "Dalam setiap karya lukisan, saya berusaha mengungkapkan ekspresi dan makna tertentu, baik itu berupa keindahan, perasaan, ide, atau pesan yang ingin disampaikan. Saya juga menggunakan berbagai teknik melukis, seperti teknik berlayer, blending, dan detail.",
+      "product_price": "Rp316.800",
+      "product_stock": 2,
+      "product_review": [
+        {
+          "name": "Rina",
+          "review": "cocok banget buat dindingku"
+        },
+        {
+          "name": "Taya",
+          "review": "warnanya soft"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "product_image": "most-buyed-5.svg",
+      "product_name": "Gerabah Kursi Teracota",
+      "product_desc": "Barang gerabah memiliki nilai seni dan budaya yang tinggi, karena seringkali terkait dengan tradisi dan kearifan lokal suatu daerah. Karya seni gerabah dapat dijadikan sebagai hias",
+      "product_price": "Rp58.999",
+      "product_stock": 8,
+      "product_review": [
+        {
+          "name": "Rani",
+          "review": "Wih suka banget kualitasnya"
+        },
+        {
+          "name": "Iya",
+          "review": "gerabahnya tebell"
+        }
+      ]
+    }
+  ]
+}

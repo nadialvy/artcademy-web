@@ -35,23 +35,15 @@ import EcommerceItem from "../components/EcommerceItem.vue";
       <div
         class="snap-x mx-auto snap-mandatory flex items-start gap-x-5 w-full overflow-scroll"
       >
-      <router-link to="/ecommerce/detail/teko-keramik-antik">
-        <EcommerceItem
-          title="Teko Keramik Antik Biru Putih"
-          price="Rp120.000"
-          imagePath="most-buyed-1.svg"
-        />
-      </router-link>
-        <EcommerceItem
-          title="KANA Astratta - Painting / Lukisan"
-          price="Rp650.000"
-          imagePath="most-buyed-2.svg"
-        />
-        <EcommerceItem
-          title="Kain Batik Panjnag H Santoso 3m"
-          price="Rp230.000"
-          imagePath="most-buyed-3.svg"
-        />
+        <!-- <router-link to="/ecommerce/detail/teko-keramik-antik"> -->
+        <template v-for="(item, i) in mostBuyedItems" :key="i">
+          <EcommerceItem
+            :title="item.product_name"
+            :price="item.product_price"
+            :imagePath="item.product_image"
+          />
+        </template>
+        <!-- </router-link> -->
       </div>
     </div>
 
@@ -61,23 +53,15 @@ import EcommerceItem from "../components/EcommerceItem.vue";
       <div
         class="snap-x mx-auto snap-mandatory flex items-start gap-x-5 w-full overflow-scroll"
       >
-        <router-link to="/ecommerce/detail/1">
+        <!-- <router-link to="/ecommerce/detail/teko-keramik-antik"> -->
+        <template v-for="(item, i) in favItems" :key="i">
           <EcommerceItem
-            title="Patung Fu Dog Emas Sepasang"
-            price="Rp1.320.000"
-            imagePath="fav-1.svg"
+            :title="item.product_name"
+            :price="item.product_price"
+            :imagePath="item.product_image"
           />
-        </router-link>
-        <EcommerceItem
-          title="Batik Keris Tas Nylon Rajut"
-          price="Rp830.000"
-          imagePath="fav-2.svg"
-        />
-        <EcommerceItem
-          title="Pot Terakota / Gerabah"
-          price="Rp120.000"
-          imagePath="fav-3.svg"
-        />
+        </template>
+        <!-- </router-link> -->
       </div>
     </div>
   </div>
@@ -114,6 +98,7 @@ export default {
         .get(`/src/data/most-buyed-item.json`)
         .then((response) => {
           this.mostBuyedItems = response.data.data;
+          console.log(response.data.data);
         })
         .catch((error) => {
           console.log(error);
