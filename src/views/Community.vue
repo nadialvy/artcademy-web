@@ -101,7 +101,7 @@ import Bottombar from "../components/Bottombar.vue";
 </template>
 
 <script>
-import communityPost from "../data/community-post.json";
+import communityPost from "../../public/data/community-post.json";
 export default {
   data() {
     return {

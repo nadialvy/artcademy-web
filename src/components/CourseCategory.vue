@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import categoryData from "../data/category.json";
+import categoryData from "../../public/data/category.json";
 export default {
   data() {
     return {
