@@ -8,7 +8,7 @@
           class="w-full flex items-center justify-center gap-4 mt-10 mb-8 text-black font-medium hover:bg-blue-100 h-12 rounded-xl border border-solid border-slate-300 focus:outline-none focus:shadow-outline"
           @click="loginWithGoogle"
         >
-          <img src="google_icon.svg" class="w-5" alt="" />
+          <img src="../assets/google.png" class="w-5" alt="" />
           Log in dengan Google
         </button>
 
