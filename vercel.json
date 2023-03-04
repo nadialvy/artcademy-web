@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "error": {
+    "status": 404,
+    "message": "Page not found"
+  }
+}

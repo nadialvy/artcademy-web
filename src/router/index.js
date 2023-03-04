@@ -11,6 +11,7 @@ import Login from "../views/Login.vue";
 import TakeClass from "../views/TakeClass.vue";
 import Level from "../views/Level.vue";
 import DetailItem from "../views/DetailItem.vue";
+import NotFound from "../views/NotFound.vue";
 
 const routes = [
   {
@@ -69,6 +70,11 @@ const routes = [
     path: "/level",
     name: "Level",
     component: Level,
+  },
+  {
+    path: '*',
+    name: 'not-found',
+    component: NotFound,
   },
 
 ];
