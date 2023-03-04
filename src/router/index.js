@@ -72,7 +72,7 @@ const routes = [
     component: Level,
   },
   {
-    path: '*',
+    path: '/:pathMatch(.*)*',
     name: 'not-found',
     component: NotFound,
   },
