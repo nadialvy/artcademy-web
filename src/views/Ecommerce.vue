@@ -105,7 +105,7 @@ export default {
   methods: {
     getFavItems() {
       axios
-        .get(`/src/data/fav-item.json`)
+        .get(`/data/fav-item.json`)
         .then((response) => {
           this.favItems = response.data.data;
           setTimeout(() => {
@@ -118,7 +118,7 @@ export default {
     },
     getMostBuyedItems() {
       axios
-        .get(`/src/data/most-buyed-item.json`)
+        .get(`/data/most-buyed-item.json`)
         .then((response) => {
           this.mostBuyedItems = response.data.data;
           setTimeout(() => {
