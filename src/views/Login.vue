@@ -41,7 +41,7 @@
               type="button"
               class="absolute right-5 top-1/2 -translate-y-1/2"
             >
-              <img src="password_eye.svg" alt="" />
+              <img src="../../public/password_eye.svg" alt="" />
             </button>
           </div>
           <router-link to="/dashboard">
