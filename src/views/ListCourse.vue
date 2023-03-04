@@ -12,20 +12,29 @@ import CourseCard from "../components/CourseCard.vue";
       <div></div>
     </div>
   </div>
-  <div class="px-4">
-    <Search text="Mau cari kelas? cari disini..." />
-    <template v-for="(course, i) in courses" :key="i">
-      <router-link
-        :to="`/listcourse/${$route.params.course_category}/${course.id}`"
-      >
-        <CourseCard
-          :course_name="course.course_name"
-          :organization="course.organization"
-          :course_category=$route.params.course_category
-        />
-      </router-link>
-    </template>
-  </div>
+  <template v-if="loading">
+    <img
+      src="../assets/loading.gif"
+      alt=""
+      class="pt-80 mx-auto my-auto w-10"
+    />
+  </template>
+  <template v-else>
+    <div class="px-4">
+      <Search text="Mau cari kelas? cari disini..." />
+      <template v-for="(course, i) in courses" :key="i">
+        <router-link
+          :to="`/listcourse/${$route.params.course_category}/${course.id}`"
+        >
+          <CourseCard
+            :course_name="course.course_name"
+            :organization="course.organization"
+            :course_category="$route.params.course_category"
+          />
+        </router-link>
+      </template>
+    </div>
+  </template>
 </template>
 
 <script>
@@ -39,6 +48,7 @@ export default {
   data() {
     return {
       courses: [],
+      loading: true,
     };
   },
   created() {
@@ -49,6 +59,9 @@ export default {
       .get(url)
       .then((response) => {
         this.courses = response.data.data;
+        setTimeout(() => {
+          this.loading = false;
+        }, 300);
       })
       .catch((error) => {
         console.log(error);
