@@ -55,7 +55,7 @@ export default {
   },
   created() {
     const path = this.$route.params.course_category;
-    const url = `/data/${path}.json`;
+    const url = `/${path}.json`;
 
     axios
       .get(url)

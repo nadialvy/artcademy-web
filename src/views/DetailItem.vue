@@ -91,7 +91,7 @@ export default {
   created() {
     const id = this.$route.params.item_id;
     const type = this.$route.params.product_type;
-    const url = `/data/${type}.json`;
+    const url = `/src/data/${type}.json`;
     let allData = [];
 
     axios.get(url).then((response) => {
