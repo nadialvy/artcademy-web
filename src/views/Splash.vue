@@ -5,7 +5,7 @@ import Carousel from "../components/Carousel.vue";
 
 <template>
   <Navbar />
-  <div class="px-6 md:px-32 lg:px-56">
+  <div class="px-6 md:px-32 lg:px-56 bg-white">
     <div
       class="md:flex flex-col md:flex-row justify-center items-center h-screen gap-y-14 md:gap-y-0"
     >

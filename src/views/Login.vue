@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto max-w-md bg-white h-screen">
-    <div class="lg:bg-gray-100 h-full w-screen flex justify-center items-center">
+    <div class="flex justify-center items-center">
       <div class="bg-white w-screen h-min p-8 rounded-lg">
         <h1 class="text-2xl font-bold text-black mb-3">Masuk</h1>
         <p class="text-base text-gray-600">Masukkan akun yang sudah terdaftar</p>
