@@ -1,3 +1,7 @@
+<script setup>
+import axios from "axios";
+</script>
+
 <template>
   <div class="bg-dashboard md:bg-none" style="--bg-dashboard-padding: 1.2rem">
     <div class="flex justify-between items-center">
@@ -9,12 +13,12 @@
 
   <div class="p-4">
     <div class="flex justify-start items-start gap-x-4">
-      <img src="../../public/most-buyed-1.svg" alt="">
+      <img :src= "'/public/' + productDetail[0].product_image " alt="" />
       <div class="">
-        <p class="font-semibold text-sm">Teko Keramik Antik Biru Putih</p>
-        <p class="font-bold mt-1 text-blue-400">Rp120.000</p>
+        <p class="font-semibold text-sm">{{productDetail[0].product_name}}</p>
+        <p class="font-bold mt-1 text-blue-400">{{productDetail[0].product_price}}</p>
         <div class="flex gap-x-2 justify-start items-center mt-4">
-          <img src="../assets/shop.svg" alt="">
+          <img src="../assets/shop.svg" alt="" />
           <p class="text-sm">Sejarah Toko</p>
         </div>
       </div>
@@ -27,23 +31,57 @@
     <div class="mt-6">
       <p class="text-gray-500 text-xs font-semibold">Varian Barang:</p>
       <div class="flex justify-start items-center gap-x-4">
-        <p class="text-xs mt-2"> ◉ Putih Merah</p>
-        <p class="text-xs mt-2"> ◉ Kuning</p>
-        <p class="text-xs mt-2"> ◉ Putih Biru</p>
-        <p class="text-xs mt-2"> ◉ Hijau</p>
+        <p class="text-xs mt-2">◉ Putih Merah</p>
+        <p class="text-xs mt-2">◉ Kuning</p>
+        <p class="text-xs mt-2">◉ Putih Biru</p>
+        <p class="text-xs mt-2">◉ Hijau</p>
       </div>
     </div>
     <div class="mt-6">
       <p class="text-gray-500 text-xs font-semibold">Deskripsi Barang:</p>
-      <p class="text-sm mt-2">Sebuah teko keramik antik khas jawa tengah berwarna biru putih dengan motif bunga mawar di tengah dan terdapat tambahan 2 gelas kecil</p>
+      <p class="text-sm mt-2">
+        {{productDetail[0].product_desc}}
+      </p>
+    </div>
+    <div class="mt-6">
+      <p class="text-gray-500 text-xs font-semibold">Ulasan Pembeli:</p>
+      <template v-for="(review, i) in productDetail[0].product_review" :key="i">
+        <div class="flex justify-start items-start gap-x-4 mt-3">
+          <img src="../assets/user.png" alt="" class="w-7">
+          <div class="text-xs ">
+            <p class="font-semibold">{{review.name}}</p>
+            <p class="text-gray-500 mt-1">{{review.review}}</p>
+          </div>
+        </div>
+      </template>
     </div>
   </div>
-<button class="bg-blue-400 z-10 text-white text-center w-full rounded-md p-4 text-sm font-semibold fixed-bottom">Masukkan Keranjang</button>
-
+  <button
+    class="bg-blue-400 z-10 text-white text-center w-full rounded-md p-4 text-sm font-semibold fixed-bottom"
+  >
+    Masukkan Keranjang
+  </button>
 </template>
 
 <script>
 export default {
+  data() {
+    return {
+      productDetail: [],
+    };
+  },
+  created() {
+    const id = this.$route.params.item_id;
+    const type = this.$route.params.product_type;
+    const url = `/src/data/${type}.json`;
+    let allData = [];
+
+    axios.get(url).then((response) => {
+      allData = response.data.data;
+      this.productDetail = allData.filter(data => data.id == id);
+      console.log(this.productDetail);
+    });
+  },
   methods: {
     goBack() {
       this.$router.go(-1);

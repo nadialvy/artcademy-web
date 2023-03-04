@@ -35,15 +35,20 @@ import EcommerceItem from "../components/EcommerceItem.vue";
       <div
         class="snap-x mx-auto snap-mandatory flex items-start gap-x-5 w-full overflow-scroll"
       >
-        <!-- <router-link to="/ecommerce/detail/teko-keramik-antik"> -->
         <template v-for="(item, i) in mostBuyedItems" :key="i">
-          <EcommerceItem
-            :title="item.product_name"
-            :price="item.product_price"
-            :imagePath="item.product_image"
-          />
+          <!-- passing id then get the id -->
+          <router-link
+            :to="{
+              path: `/ecommerce/detail/most-buyed-item/${item.product_name}/${item.id}`,
+            }"
+          >
+            <EcommerceItem
+              :title="item.product_name"
+              :price="item.product_price"
+              :imagePath="item.product_image"
+            />
+          </router-link>
         </template>
-        <!-- </router-link> -->
       </div>
     </div>
 
@@ -53,15 +58,15 @@ import EcommerceItem from "../components/EcommerceItem.vue";
       <div
         class="snap-x mx-auto snap-mandatory flex items-start gap-x-5 w-full overflow-scroll"
       >
-        <!-- <router-link to="/ecommerce/detail/teko-keramik-antik"> -->
         <template v-for="(item, i) in favItems" :key="i">
-          <EcommerceItem
-            :title="item.product_name"
-            :price="item.product_price"
-            :imagePath="item.product_image"
-          />
+          <router-link :to="`/ecommerce/detail/${item.product_name}`">
+            <EcommerceItem
+              :title="item.product_name"
+              :price="item.product_price"
+              :imagePath="item.product_image"
+            />
+          </router-link>
         </template>
-        <!-- </router-link> -->
       </div>
     </div>
   </div>

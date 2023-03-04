@@ -44,10 +44,9 @@ const routes = [
     component: Ecommerce,
   },
   {
-    path: "/ecommerce/detail/:item_name", //FIX THIS
+    path: "/ecommerce/detail/:product_type/:item_name/:item_id",
     name: "DetailItem",
     component: DetailItem,
-    // props: true,
   },
   {
     path: "/listcourse/:course_category",
