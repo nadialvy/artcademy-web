@@ -4,16 +4,16 @@ import Carousel from "../components/Carousel.vue";
 </script>
 
 <template>
-  <Navbar />
+  <!-- <Navbar /> -->
   <div class="px-6 md:px-32 lg:px-56 bg-white">
     <div
       class="md:flex flex-col md:flex-row justify-center items-center h-screen gap-y-14 md:gap-y-0"
     >
-      <div class="md:w-1/2">
+      <div class="md:w-1/2 lg:w-full">
         <carousel />
       </div>
-      <div class="md:w-1/2 mt-12 gap-y-10 flex flex-col md:flex-none">
-        <div class="text-center px-6 md:px-10">
+      <div class="md:w-1/2 lg:w-full mt-12 gap-y-10 flex flex-col md:flex-none">
+        <div class="text-center px-6 md:px-10 lg:px-0">
           <h1 class="font-bold text-xl md:text-3xl">
             Menjadi Master Seni Mulai Sekarang
           </h1>

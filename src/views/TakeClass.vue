@@ -13,8 +13,8 @@
 
       <div class="bg-white p-4 rounded-md shadow-lg text-sm mt-4">
         <p class="font-semibold">Paket Visual</p>
-        <div class="flex justify-start items-center gap-x-4 mt-4">
-          <img src="../assets/ic_tv.svg" alt="" />
+        <div class="flex justify-start items-center mt-4">
+          <img src="../assets/ic_tv.svg" alt="" class="mr-4"/>
           <div>
             <p class="font-semibold mb-2">Akses Video Pembelajaran</p>
             <p class="text-xs text-gray-500">
@@ -27,8 +27,8 @@
 
       <div class="bg-white p-4 rounded-md shadow-lg text-sm mt-4">
         <p class="font-semibold">Paket Collaborate</p>
-        <div class="flex justify-start items-center gap-x-4 mt-4">
-          <img src="../assets/ic_tv.svg" alt="" />
+        <div class="flex justify-start items-center mt-4">
+          <img src="../assets/ic_tv.svg" alt="" class="mr-4" />
           <div>
             <p class="font-semibold mb-2">Akses Video Pembelajaran</p>
             <p class="text-xs text-gray-500">
@@ -37,8 +37,8 @@
             </p>
           </div>
         </div>
-        <div class="flex justify-start items-center gap-x-4 mt-4">
-          <img src="../assets/ic_chalkboard.svg" alt="" />
+        <div class="flex justify-start items-center mt-4">
+          <img src="../assets/ic_chalkboard.svg" alt="" class="mr-4" />
           <div>
             <p class="font-semibold mb-2">Belajar Bersama Mentor</p>
             <p class="text-xs text-gray-500">
@@ -51,8 +51,8 @@
 
       <div class="bg-white p-4 rounded-md shadow-lg text-sm mt-4">
         <p class="font-semibold">Paket Personal</p>
-        <div class="flex justify-start items-center gap-x-4 mt-4">
-          <img src="../assets/ic_chalkboard.svg" alt="" />
+        <div class="flex justify-start items-center mt-4">
+          <img src="../assets/ic_chalkboard.svg" alt="" class="mr-4" />
           <div>
             <p class="font-semibold mb-2">Belajar Private</p>
             <p class="text-xs text-gray-500">
@@ -64,8 +64,8 @@
 
       <div class="bg-white p-4 rounded-md shadow-lg text-sm mt-4">
         <p class="font-semibold">Paket Personal</p>
-        <div class="flex justify-start items-center gap-x-4 mt-4">
-          <img src="../assets/ic_person_chalkboard.svg" alt="" />
+        <div class="flex justify-start items-center mt-4">
+          <img src="../assets/ic_person_chalkboard.svg" alt="" class="mr-4" />
           <div>
             <p class="font-semibold mb-2">Belajar Langsung di tempat</p>
             <p class="text-xs text-gray-500">
