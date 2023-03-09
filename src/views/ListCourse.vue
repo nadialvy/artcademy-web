@@ -34,6 +34,28 @@ import CourseCard from "../components/CourseCard.vue";
             />
           </router-link>
         </template>
+        <template v-for="(course, i) in courses" :key="i">
+          <router-link
+            :to="`/listcourse/${$route.params.course_category}/${course.id}`"
+          >
+            <CourseCard
+              :course_name="course.course_name"
+              :organization="course.organization"
+              :course_category="$route.params.course_category"
+            />
+          </router-link>
+        </template>
+        <template v-for="(course, i) in courses" :key="i">
+          <router-link
+            :to="`/listcourse/${$route.params.course_category}/${course.id}`"
+          >
+            <CourseCard
+              :course_name="course.course_name"
+              :organization="course.organization"
+              :course_category="$route.params.course_category"
+            />
+          </router-link>
+        </template>
       </div>
     </template>
   </div>
